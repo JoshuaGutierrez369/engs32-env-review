@@ -12,6 +12,27 @@
 <meta name="apple-mobile-web-app-title" content="ENGS32 Env">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
+<script>
+/* Recover from SW-cached broken questions.js (truncated bank) before any bank scripts run. */
+(function () {
+  var purgeKey = 'engs32-cache-purge';
+  var want = 'materials-2026-05-27-v8-json-fallback';
+  try {
+    if (localStorage.getItem(purgeKey) === want) return;
+    localStorage.setItem(purgeKey, want);
+  } catch (e) {}
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(function (regs) {
+      return Promise.all(regs.map(function (r) { return r.unregister(); }));
+    });
+  }
+  if (window.caches) {
+    caches.keys().then(function (keys) {
+      return Promise.all(keys.map(function (k) { return caches.delete(k); }));
+    });
+  }
+})();
+</script>
 <meta name="theme-color" content="#1b5e20" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)">
 <style>
@@ -291,15 +312,47 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
   </div>
 </div>
 
-<script src="version.js?v=materials-2026-05-27-v7-essays-fix"></script>
-<script src="questions.js?v=materials-2026-05-27-v7-essays-fix"></script>
+<script src="version.js?v=materials-2026-05-27-v8-json-fallback"></script>
 <script>
 (function(){
 'use strict';
+var BANK_TAG=window.APP_BANK_VERSION||'materials-2026-05-27-v8-json-fallback';
 function el(id){return document.getElementById(id);}
 
 function QB(){return window.ENVS_QB||[];}
 function ESSAYS(){return window.ENVS_ESSAYS||[];}
+
+function assignBankFromJson(data){
+  window.ENVS_QB=data.questions||[];
+  window.ENVS_ESSAYS=data.essays||[];
+  if(data.version)window.APP_BANK_VERSION=data.version;
+}
+
+function ensureBankLoaded(){
+  if(QB().length)return Promise.resolve();
+  return new Promise(function(resolve,reject){
+    var s=document.createElement('script');
+    s.src='questions.js?v='+encodeURIComponent(BANK_TAG);
+    s.onload=function(){
+      if(QB().length)resolve();
+      else reject(new Error('questions.js parsed but bank is empty'));
+    };
+    s.onerror=function(){reject(new Error('questions.js failed to load'))};
+    document.head.appendChild(s);
+  }).catch(function(){
+    return fetch('./bank.json?v='+encodeURIComponent(BANK_TAG),{cache:'no-store'})
+      .then(function(res){
+        if(!res.ok)throw new Error('bank.json HTTP '+res.status);
+        var ct=(res.headers.get('content-type')||'').toLowerCase();
+        if(ct.indexOf('json')===-1&&ct.indexOf('text/plain')===-1)throw new Error('bank.json wrong content-type');
+        return res.json();
+      })
+      .then(function(data){
+        assignBankFromJson(data);
+        if(!QB().length)throw new Error('bank.json empty');
+      });
+  });
+}
 
 function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t;}return a;}
 function escapeHtml(s){if(!s)return'';return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
@@ -867,8 +920,7 @@ window.handleModeCard=handleModeCard;
 function routeFromHash(){
   var h=(location.hash||'').toLowerCase();
   if(h==='#quiz'||h==='#quizbee'){openQuizBee();return;}
-  if(h==='#review'){closeQuizOverlay();return;}
-  openQuizOverlay();
+  closeQuizOverlay();
 }
 
 document.addEventListener('keydown',function(ev){
@@ -887,15 +939,11 @@ document.addEventListener('keydown',function(ev){
   if(ev.key==='Escape'){if(el('quiz-results').style.display==='flex')showLandingAfterResults();else closeQuizOverlay();}
 });
 
-document.addEventListener('DOMContentLoaded',function(){
-  try{if(localStorage.getItem('engs32_dark')==='1')document.body.classList.add('dark');}catch(e){}
-  var mo=document.getElementById('mob-overlay');
-  if(mo)mo.addEventListener('click',function(){document.getElementById('toc').classList.remove('mobile-open');this.classList.remove('open');});
-  wireHomeModeCards();
+function bootApp(){
   var qb=QB();
   var sub=document.querySelector('#quiz-landing .sub');
   if(!qb.length){
-    if(el('review-sections'))el('review-sections').innerHTML='<p style="color:#b71c1c">Missing questions — ensure <code>questions.js</code> and <code>version.js</code> load (hard-refresh with Ctrl+Shift+R).</p>';
+    if(el('review-sections'))el('review-sections').innerHTML='<p style="color:#b71c1c">Missing questions — hard-refresh (Ctrl+Shift+R). If this persists, open DevTools → Application → clear site data for this URL.</p>';
     if(sub)sub.textContent='Question bank failed to load — buttons will not start quiz until you refresh.';
   }else{
     try{buildToc();buildReviewer();}catch(err){
@@ -909,6 +957,17 @@ document.addEventListener('DOMContentLoaded',function(){
   }
   if(el('q-filter'))el('q-filter').addEventListener('input',applyFilter);
   routeFromHash();
+}
+
+document.addEventListener('DOMContentLoaded',function(){
+  try{if(localStorage.getItem('engs32_dark')==='1')document.body.classList.add('dark');}catch(e){}
+  var mo=document.getElementById('mob-overlay');
+  if(mo)mo.addEventListener('click',function(){document.getElementById('toc').classList.remove('mobile-open');this.classList.remove('open');});
+  wireHomeModeCards();
+  ensureBankLoaded().then(bootApp).catch(function(err){
+    console.error('Bank load failed',err);
+    bootApp();
+  });
 });
 window.addEventListener('hashchange',routeFromHash);
 
