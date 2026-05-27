@@ -8,6 +8,7 @@ import pypdf
 
 DOWNLOADS = Path(r"C:\Users\joshu\Downloads")
 PDFS = [
+    ("Lec 5.1", DOWNLOADS / "ENGS 32 - Lec 5.1 - Overpopulation.pdf"),
     ("Lec 5.2", DOWNLOADS / "ENGS 32 - Lec 5.2 - Water Pollution.pdf"),
     ("Lec 5.3", DOWNLOADS / "ENGS 32 - Lec 5.3 - Air Pollution.pdf"),
     ("Lec 5.4", DOWNLOADS / "ENGS 32 - Lec 5.4 - Solid Waste.pdf"),

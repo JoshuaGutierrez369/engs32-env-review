@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, minimum-scale=1.0">
 <!-- Intended production URL (project Pages): https://joshuagutierrez369.github.io/engs32-env-review/ -->
 <title>ENGS 32 — Environmental Science Review &amp; Quiz</title>
-<meta name="description" content="CvSU ENGS 32 reviewer and quiz — water &amp; air pollution (Lec 5.2–5.3), solid waste, climate, EIA, sustainability, with cited explanations">
+<meta name="description" content="CvSU ENGS 32 reviewer and quiz — overpopulation (Lec 5.1), water &amp; air pollution (5.2–5.3), solid waste, climate, EIA, sustainability, with cited explanations">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -16,7 +16,7 @@
 /* Recover from SW-cached broken questions.js (truncated bank) before any bank scripts run. */
 (function () {
   var purgeKey = 'engs32-cache-purge';
-  var want = 'materials-2026-05-27-v8-json-fallback';
+  var want = 'materials-2026-05-27-v9-lec51';
   try {
     if (localStorage.getItem(purgeKey) === want) return;
     localStorage.setItem(purgeKey, want);
@@ -228,13 +228,13 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
   </header>
   <div class="main-content" id="main-content">
     <div id="st">
-      <div class="stat"><div class="sn" id="st-lo">—</div><div class="sl">Topics (Lec 5.2–5.3 + LO7–13)</div></div>
+      <div class="stat"><div class="sn" id="st-lo">—</div><div class="sl">Topics (Lec 5.1–5.3 + LO7–13)</div></div>
       <div class="stat"><div class="sn" id="st-mcq">—</div><div class="sl">MCQ + TF</div></div>
       <div class="stat"><div class="sn" id="st-essay">—</div><div class="sl">Essay prompts</div></div>
       <div class="stat"><div class="sn" id="st-bank-ver" style="font-size:11px">—</div><div class="sl">Bank version</div></div>
     </div>
 
-    <p style="margin-bottom:16px;line-height:1.55;color:#555;font-size:13px">Each topic opens with <strong>Key Concepts</strong> from the CvSU lecture modules (Lec&nbsp;5.2 water, 5.3 air, 5.4–7 for LO7–13). <strong>LO5W</strong> and <strong>LO5A</strong> each carry <strong>23</strong> analytical MCQ/T‑F items—the same deck size as LO7. Expand or collapse sections, then drill questions; rationales cite <strong>Evidence &amp; references</strong>. Cross-check statutes and UN/IPCC text against your PDFs (<code>SOURCES.md</code>).</p>
+    <p style="margin-bottom:16px;line-height:1.55;color:#555;font-size:13px">Each topic opens with <strong>Key Concepts</strong> from the CvSU lecture modules (Lec&nbsp;5.1 overpopulation, 5.2 water, 5.3 air, 5.4–7 for LO7–13). <strong>LO5O</strong>, <strong>LO5W</strong>, and <strong>LO5A</strong> each carry <strong>23</strong> analytical MCQ/T‑F items—the same deck size as LO7. Expand or collapse sections, then drill questions; rationales cite <strong>Evidence &amp; references</strong>. Cross-check PSA/census figures and statutes against your PDFs (<code>SOURCES.md</code>, <code>MATERIALS.md</code>).</p>
 
     <div id="review-sections"></div>
 
@@ -312,7 +312,7 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
   </div>
 </div>
 
-<script src="version.js?v=materials-2026-05-27-v8-json-fallback"></script>
+<script src="version.js?v=materials-2026-05-27-v9-lec51"></script>
 <script>
 (function(){
 'use strict';
@@ -388,7 +388,7 @@ function buildToc(){
 
 function anchorId(lo){return lo.toLowerCase().replace(/\s+/g,'-');}
 
-var LO_DISPLAY_ORDER=['LO5W','LO5A','LO7','LO8','LO9','LO10','LO11','LO12','LO13'];
+var LO_DISPLAY_ORDER=['LO5O','LO5W','LO5A','LO7','LO8','LO9','LO10','LO11','LO12','LO13'];
 function loSortKey(lo){
   var i=LO_DISPLAY_ORDER.indexOf(lo);
   return i>=0?String(100+i):lo;
@@ -396,6 +396,36 @@ function loSortKey(lo){
 function sortLos(los){return los.sort(function(a,b){var ka=loSortKey(a),kb=loSortKey(b);return ka<kb?-1:ka>kb?1:0;});}
 
 var KEY_CONCEPTS_BY_LO={
+  LO5O:{
+    subtitle:'Lec 5.1 — Overpopulation (CvSU ENGS 32)',
+    blocks:[
+      {h:'Population & environment',items:[
+        'Unchecked population growth raises demand for food, fiber, and resources and worsens pollution, waste, and ecosystem degradation.',
+        'Human environmental behavior is shaped strongly by survival needs (lecture framing).',
+        'Population = interacting individuals of the same kind in the same place at the same time (gene flow, resource allocation, cooperative defense).'
+      ]},
+      {h:'Structure, density, distribution',items:[
+        'Age structure: growing (many young), stable (young ≈ adults), declining (few young).',
+        'Density: absolute (actual count per unit area) vs relative (share vs other species). High density → crowding, competition, mortality, pests/diseases; low density → larger individuals, more reproduction, more resources.',
+        'Measure density via census, sampling, or capture–recapture (mobile animals).',
+        'Spatial patterns: random, uniform/regular, clumped/aggregated; temporal: circadian, seasonal, tidal, lunar.',
+        'Philippines: 12th most populous country; many cities in global top-30 density list; Manila ≈ 73,920 persons/km² (2020 PSA slide).'
+      ]},
+      {h:'Vital rates & growth models',items:[
+        'Natality (births/hatching/germination/cloning); crude birth rate per 1,000; fecundity (capacity) vs fertility (actual offspring).',
+        'Mortality (deaths per unit time; per 1,000 in humans), survivorship, life expectancy, life span, longevity.',
+        'Exponential: dN/dt = rN, J-curve, density-independent, short-term unlimited resources.',
+        'Logistic: dN/dt = rN(K−N)/K, density-dependent, approaches carrying capacity K.',
+        'Nₜ = N₀e^(rt) — squirrel example: 500 in 2023 at 2.5%/yr → ≈824 in 2043; reverse example r ≈ 7.1% when N falls 500→350 in 5 years.'
+      ]},
+      {h:'World & Philippine demographics',items:[
+        'World ≈7.9 billion (Apr 2023); growth ≈0.94%; doubling narratives from 3B (1959) to 6B (1999) and projections toward 9B by 2042 in slides.',
+        'Philippines ≈110.56M (2018 rank table); ~114.1M recent estimate; top regions 2020: CALABARZON, NCR, Central Luzon (~38.7% combined).',
+        'At ~1.47% growth (2023 slide), doubling time ≈47 years; national density ≈363/km² vs NCR ≈21,765/km².',
+        'Average household size 4.1 (2020) down from 5.07 (1995); BARMM largest regional average ~5.9.'
+      ]}
+    ]
+  },
   LO5W:{
     subtitle:'Lec 5.2 — Water Pollution (CvSU ENGS 32)',
     blocks:[
