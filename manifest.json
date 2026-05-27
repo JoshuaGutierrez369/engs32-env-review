@@ -1,0 +1,39 @@
+{
+  "id": "engs32-env-review",
+  "name": "ENGS 32 Environmental Science Review",
+  "short_name": "ENGS32 Env",
+  "description": "CvSU ENGS 32 — Reviewer & Quiz Bee with cited answer justifications (LO7–LO13)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "ltr",
+  "background_color": "#0d1117",
+  "theme_color": "#1b5e20",
+  "orientation": "any",
+  "lang": "en",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Quiz Bee",
+      "short_name": "Quiz",
+      "description": "Start quiz setup",
+      "url": "./index.html#quiz",
+      "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Reviewer",
+      "short_name": "Review",
+      "description": "Open reviewer (close home overlay)",
+      "url": "./index.html#review",
+      "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}

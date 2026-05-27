@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1b5e20"/>
+  <circle cx="256" cy="220" r="118" fill="#2e7d32" opacity="0.95"/>
+  <path d="M256 115c-52 62-92 148-92 217 0 45 41 82 92 82s92-37 92-82c0-69-40-155-92-217z" fill="#66bb6a"/>
+  <path d="M256 150c-38 52-62 118-62 167 0 28 26 52 62 52s62-24 62-52c0-49-24-115-62-167z" fill="#a5d6a7"/>
+  <text x="256" y="460" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="900" font-size="48" fill="#c8e6c9" letter-spacing="1">ENGS32</text>
+</svg>
