@@ -2,6 +2,8 @@
 
 This reviewer ties each item to **course PDFs** (CvSU ENGS 32 Lec 5.4, 5.5, 6, 7) plus **primary or authoritative external** references where applicable.
 
+The **Key concepts** block at the top of each LO in `index.html` is a **structured synopsis** of those same lecture modules (aligned with `questions.js`). It is not a byte-for-byte copy of the PDFs—use your official slide files for exact wording, tables, and graphics.
+
 | Topic | External check | Notes |
 | --- | --- | --- |
 | **RA 9003** short title & Sec. 2 policies | [Lawphil — Republic Act No. 9003](https://lawphil.net/statutes/repacts/ra2001/ra_9003_2001.html) | Header: approved **26 January 2001**; Sec. 1 short title *Ecological Solid Waste Management Act of 2000*; Sec. 2 lists health/environment protection and ecological SWM. |

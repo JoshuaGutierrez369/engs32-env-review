@@ -80,6 +80,13 @@ section.ps h2 .bc{opacity:.95;font-weight:600;font-size:11px}
 body.dark .concept-card{background:#1a1f1c;border-color:#333}
 body.dark .concept-toggle{background:#1e3324;color:#c8e6c9}
 
+.kc-source{display:block;margin:4px 0 10px;font-size:11.5px;color:#5d4037;line-height:1.45;font-style:italic}
+body.dark .kc-source{color:#b0bec5}
+.kc-sub{margin:10px 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#558b2f;font-weight:800}
+body.dark .kc-sub{color:#9ccc65}
+.lo-kc-panel{margin-bottom:16px;border:2px solid #a5d6a7;border-radius:8px;overflow:hidden}
+body.dark .lo-kc-panel{border-color:#3d5c3f}
+
 #quiz-overlay{position:fixed;inset:0;background:#0d1117;z-index:999;display:none;flex-direction:column;overflow-y:auto;overflow-x:hidden;width:100%;max-width:100%}
 #quiz-overlay.open{display:flex!important}
 #quiz-landing{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh;padding:28px 12px;gap:18px;text-align:center;width:100%;position:relative;z-index:2}
@@ -205,7 +212,7 @@ body.dark .concept-toggle{background:#1e3324;color:#c8e6c9}
       <div class="stat"><div class="sn" id="st-essay">—</div><div class="sl">Essay prompts</div></div>
     </div>
 
-    <p style="margin-bottom:16px;line-height:1.55;color:#555;font-size:13px">Reviewer mode lists every MCQ/T‑F item with revealed answers and <strong>Evidence &amp; references</strong> (statutes, IPCC/UN docs, UNDP dashboards, Yale EPI — see <code>SOURCES.md</code> in this folder). Prefer primary legal texts when they differ from slides.</p>
+    <p style="margin-bottom:16px;line-height:1.55;color:#555;font-size:13px">Each learning outcome opens with <strong>Key Concepts</strong> drawn from the same CvSU lecturer modules used to draft the quiz (Lec&nbsp;5.4–7). Expand or collapse sections as needed — then drill the MCQ/T‑F items below, each with <strong>Evidence &amp; references</strong>. Prefer statute and UN/IPCC originals when wording differs from your PDFs (<code>SOURCES.md</code>).</p>
 
     <div id="review-sections"></div>
 
@@ -326,6 +333,142 @@ function buildToc(){
 
 function anchorId(lo){return lo.toLowerCase().replace(/\s+/g,'-');}
 
+var KEY_CONCEPTS_BY_LO={
+  LO7:{
+    subtitle:'Lec 5.4 Solid waste · Lec 5.5 Climate & environmental crises',
+    blocks:[
+      {h:'Solid waste framing',items:['Solid waste as a distinctly human framing: discarded materials classified as worthless or unusable, contrasted with natural biogeochemical recycling in ecosystems.',
+        'Functional definition of municipal solid waste management from the lectures: deliberate control covering storage/collection/transport/segregation/processing/recycling/recovery through final disposal pathways.',
+        'Source categories emphasized: municipal (household plus commercial mixes), industrial (process-derived), agricultural residues, hazardous (toxic-containing streams from households, industrial plants and hospitals), and biomedical/infectious hospital wastes.',
+        'Policy anchor RA 9003 — officially titled Ecological Solid Waste Management Act of 2000 in the statute; cross-check enactment/header dates via Lawphil (approved 26\u00A0January\u00A02001) when slides list an alternative day.',
+        'RA 9003 policy declaration (§2): systemic, comprehensive ecological SWM protecting public health and the environment.',
+        'Institutional actors named in-session: National Solid Waste Management Commission (NSWMC), National Ecology Center (NEC), and local Solid Waste Management Boards aligning with decentralized implementation narratives.',
+        'Illustrative performance statistics in slides (verify updates with NSWMC): metro household refuse share (~74%); plastics entering drainage/flood pathways; sanitary landfill engineered controls versus unmanaged dumps.'
+      ]},
+      {h:'Climate system ideas',items:['Weather vs climate differentiation: instantaneous atmospheric state versus long-lived averages aligned with IPCC/WMO ~30‑year baseline periods.',
+        'Greenhouse framing highlights CO₂ and CH₄ forcing roles; reinforcement through ice‑albedo positive feedback narratives.',
+        'Anthropogenic drivers include land-use shifts such as large-scale forest loss that releases terrestrial carbon pools and trims future uptake capacity.',
+        'Paris Agreement storyline in notes: holding warming well below 2 °C while pursuing ~1.5 °C safeguards; Parties submit Nationally Determined Contributions refreshed on roughly five-year cadences.']
+      }
+    ]
+  },
+  LO8:{
+    subtitle:'Synthesis drills from lecture case studies · cross-topic integration',
+    blocks:[
+      {h:'General Trias correlations',items:['Household refuse mass correlates strongest with enlarged family households (high statistical significance per slide regressions); educational attainment flagged as statistically non‑significant in the same tableau — interpret cautiously versus wider literature.',
+      'Socio-economic covariates (income tiers, occupations) portrayed as statistically significant influences on disposed mass in the lecturer example.']
+      },
+      {h:'National contrasts & crises linkages',items:['Slides contrasting ~0.50\u00A0kg/cap/day versus ~0.34\u00A0kg/cap/day strata frame waste intensity rising with affluent consumption patterns.',
+      'Integrative storyline: terrestrial plastic leakage into waterways combines with clogged conveyance infrastructure, elevating compounded flood/ecosystem risk alongside climate stressors emphasized elsewhere in the syllabus.']
+      }
+    ]
+  },
+  LO9:{
+    subtitle:'Environmental impact assessment fundamentals (early Lec 6 arc)',
+    blocks:[
+      {h:'Core definitions',items:['“Impact” = measurable deviation away from baseline environmental/social/economic fabric driven by proposed activities—not simply the EMP budget ribbon.',
+      'Baseline characterization must capture temporal variability: seasonal swings, stochastic events, directional trends—not a single hurried snapshot pretending stability.',
+      'Integrated assessment dimensions enumerated: biophysical, social/cultural, public health and economic/fiscal interfaces so trade-offs remain explicit.']
+      },
+      {h:'Analytical screening',items:['Scoping stresses focusing limited analyst hours on statistically and socially salient stresses because exhaustive enumeration is unattainable at classroom or agency scale.']
+      }
+    ]
+  },
+  LO10:{
+    subtitle:'Philippine PEISS statutes · ECC/CNC pathways · spatial overlays',
+    blocks:[
+      {h:'Legal baselines',items:['PD\u00A01151 (Philippine Environmental Policy, 1977) frames when environmental quality may be materially degraded—precursor rationale for fuller impact documentation.',
+      'PD\u00A01586 (June\u00A01978) erects the Philippine Environmental Impact Statement System (PEISS) governing environmentally critical inventories described in adjunct issuances (PP\u00A02146 family). Always verify denominational updates with DENR DAO/EIS memoranda circulated after class.']
+      },
+      {h:'Project classification',items:['Category\u00A0D orientation in slides: ordinarily presumed negligible significant adverse ecological outcomes and therefore ordinarily outside mandatory ECC netting—subject to categorical lists and DAO amendments.',
+      'Environmentally Critical Projects exemplified: mega dams and major fossil/renewable power stations; Environmentally Critical Areas illustrated with principal groundwater recharge tracts, old-growth forest reserves, wildlife sanctuaries, coral reefs/mangrove nurseries—the precise statutory catalogs live in DENR annexes.',]
+      },
+      {h:'Administrative permits',items:['Environmental Compliance Certificate summarises executed PEISS dossier review plus enforceable mitigation/monitoring prescriptions; ECC validity anecdotes in trainer PDFs cite ~five-year implementation horizons before lapse unless formally extended.',
+      'Certificate of Non-Coverage communicates proponent dossier adjudged exempt from ECC under rules reviewed at filing time yet still subject to other permit stacks (LLDA, ECC regional offices, Sanggunian overlays).']
+      }
+    ]
+  },
+  LO11:{
+    subtitle:'EIA methodology · scoping EMP monitoring',
+    blocks:[
+      {h:'Procedural sequencing',items:['Canonical flow begins at scoping/stakeholder alignment, then iterative baseline surveying, forecasting, comparative evaluation, EMP packaging, peer/technical prediction review prior to ECC issuance, and post-clearance auditing/monitoring regimes.',
+      'Spatial scoping radii articulated: nucleus footprint plus primary/secondary influence cushions and optionally regional corridors for cumulative studies.']
+      },
+      {h:'Methods & EMP',items:['Impact prediction toolbox: calibrated expert judgement, analogous project analogies, purposeful field assays, deterministic or stochastic modelling where datasets justify fidelity.',
+      'Significance triage leverages statistical expectancy, ecological strata affected and perceived social valuations before ranking residual risks.',
+      'Environmental Management Plans bundle enhancement of positive outputs, attenuation/mitigation hierarchies for negatives, auditing schedules, KPI dashboards and reporting ladders for regulators and financiers.',]
+      },
+      {h:'Governance norms',items:['Participatory/consultative scoping aligns with IAIA transparency principles showcased in bibliography—frontloads conflict resolution before concrete pours.']
+      }
+    ]
+  },
+  LO12:{
+    subtitle:'Sustainable development pathways (WCED · SDGs)',
+    blocks:[
+      {h:'Foundational diplomacy',items:['Brundtland Commission/WCED (1987) operational definition retains currency: fulfil present developmental needs without undermining successors’ entitlement to equivalent opportunity sets.',
+      'Intergenerational equity lens: disallow one cohort’s entitlement claims from cancelling deferred wellbeing endowments (linked to planetary boundary discourses surfaced in bibliography).']
+      },
+      {h:'UN 2030 architecture',items:['Seventeen Sustainable Development Goals interlock economic inclusion, ecosystem integrity and social resilience (UN SDG portal).',
+      'Goal\u00A013 explicitly tagged Climate Action while cross-walking with prior waste/EIA modules on institutional capacity.',
+      'Triple-pillar interpretation in slides juxtaposes economic throughput, environmental guardianship and social cohesion—mirroring triple bottom line dialogues in assigned readings.']
+      },
+      {h:'Diagnostics',items:['Environmental Performance Index described as multi-indicator national league table maintained by Yale/Columbia consortium for cross-country benchmarking.']
+      }
+    ]
+  },
+  LO13:{
+    subtitle:'Human development metrics · circular economy & cleaner production',
+    blocks:[
+      {h:'Composite indices',items:['Human Development Index (UNDP HDR) melds longevity, education attainments and GNI per capita into a 0–1 dashboard.',
+      'Multidimensional Poverty Index (UNDP/OPHI) layers simultaneous deprivations across health, schooling and living-standard proxies rather than income alone.',
+      'Gender Inequality Index tracks reproductive autonomy, parliamentary voice and labour-market asymmetries—useful for SDG 5 cross-checks.']
+      },
+      {h:'Biophysical accounting',items:['Ecological footprint translates consumption/embodied energy into notional global hectares of bioproductive surface demand contrasted with national biocapacity budgets (Wackernagel/Rees lineage referenced in lecture bibliography).']
+      },
+      {h:'Transition levers',items:['Circular economy narrative: retain material value within technical and biological loops (reduce–reuse–remanufacture–recycle) to trim virgin extraction.',
+      'Cleaner production front-loads efficiency: trim material/energy intensity, emissions, effluent, waste heat and noise at process design rather than end-of-pipe fixes (UNEP vocabulary echoed in notes).',
+      'Renewable technology basket highlighted: solar photovoltaics, wind turbines, run-of-river hydro, modern biomass and geothermal resources—compare intermittency, baseload and grid-integration constraints from SDG 7 angle.']
+      }
+    ]
+  }
+};
+
+function keyConceptsFilterText(lo){
+  var d=KEY_CONCEPTS_BY_LO[lo];
+  if(!d)return'';
+  var parts=[lo,d.subtitle||''];
+  (d.blocks||[]).forEach(function(b){
+    parts.push(b.h||'');
+    (b.items||[]).forEach(function(it){parts.push(it);});
+  });
+  return parts.join(' ').toLowerCase();
+}
+
+function buildKeyConceptPanel(lo){
+  var d=KEY_CONCEPTS_BY_LO[lo];
+  if(!d)return null;
+  var wrap=document.createElement('div');
+  wrap.className='concept-card lo-kc-panel';
+  wrap.dataset.kfilter=keyConceptsFilterText(lo);
+  var bodyHtml='<p class="kc-source">Synopsis mirrors the CvSU ENGS&nbsp;32 PDF modules referenced in your question bank; open the official lecture files for verbatim slide text, tables, and figures.</p>';
+  if(d.subtitle)bodyHtml+='<p style="font-size:12px;margin-bottom:8px;color:#33691e;font-weight:600">'+escapeHtml(d.subtitle)+'</p>';
+  (d.blocks||[]).forEach(function(b){
+    bodyHtml+='<div class="kc-sub">'+escapeHtml(b.h)+'</div><ul style="margin:0 0 10px 18px;line-height:1.55">';
+    (b.items||[]).forEach(function(it){bodyHtml+='<li>'+escapeHtml(it)+'</li>';});
+    bodyHtml+='</ul>';
+  });
+  wrap.innerHTML='<button type="button" class="concept-toggle" aria-expanded="true">📘 Key concepts — '+escapeHtml(lo)+' ▴</button>'+
+    '<div class="concept-body open" id="'+escapeHtml(anchorId(lo))+'-kc">'+bodyHtml+'</div>';
+  var btn=wrap.querySelector('.concept-toggle');
+  var bod=wrap.querySelector('.concept-body');
+  btn.addEventListener('click',function(){
+    var o=bod.classList.toggle('open');
+    btn.setAttribute('aria-expanded',o?'true':'false');
+    btn.textContent='📘 Key concepts — '+lo+' '+(o?'▴':'▾');
+  });
+  return wrap;
+}
+
 function renderRefsHtml(refs){
   if(!refs||!refs.length)return'';
   var out='<div class="refs"><b>References</b><ul style="margin:6px 0 0 16px;line-height:1.45">';
@@ -349,6 +492,8 @@ function buildReviewer(){
     var sec=document.createElement('section');sec.className='ps';sec.id=sid;
     var psi=document.createElement('div');psi.className='psi';
     sec.innerHTML='<h2>'+escapeHtml(lo)+' <span class="bc">'+(byLo[lo].length)+' questions</span></h2>';
+    var kc=buildKeyConceptPanel(lo);
+    if(kc)psi.appendChild(kc);
     byLo[lo].forEach(function(q,qi){
       var wrap=document.createElement('div');wrap.className='q';wrap.dataset.lo=lo;wrap.dataset.lofilter=(lo+' '+q.level+' '+q.type+' '+q.text+' '+q.expl+(q.id||'')).toLowerCase();
       var tag=q.type==='tf'?'T/F':'MCQ';
@@ -403,8 +548,11 @@ function applyFilter(){
     else n.classList.add('hid');
   });
   document.querySelectorAll('#review-sections section.ps').forEach(function(sec){
-    var visible=sec.querySelectorAll('.q:not(.hid)').length;
-    sec.style.display=visible?'':'none';
+    if(!tx){sec.style.display='';return;}
+    var mq=sec.querySelectorAll('.q:not(.hid)').length;
+    var pan=sec.querySelector('.lo-kc-panel');
+    var mk=pan&&pan.dataset.kfilter&&(pan.dataset.kfilter.indexOf(tx)!==-1);
+    sec.style.display=(mq||mk)?'':'none';
   });
 }
 
