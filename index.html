@@ -231,9 +231,9 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
     <h1>ENGS 32 — Environmental Science</h1>
     <p class="sub">Same flow as CA3 examiner: landing → reviewer or quiz. Offline after first load (service worker).</p>
     <div class="mode-cards">
-      <div class="mode-card reviewer-card"><div class="icon">📖</div><h2>Reviewer</h2><p>All MCQ/T‑F with answers, rationale, and reference list.</p><span class="tag">Browse</span></div>
-      <div class="mode-card quiz-card"><div class="icon">🎯</div><h2>Quiz Bee</h2><p>Select LO topics, shuffle, timer optional.</p><span class="tag">Practice</span></div>
-      <div class="mode-card essay-card"><div class="icon">✍</div><h2>Essays</h2><p>Synthesis prompts toward bottom of reviewer page.</p><span class="tag">Study</span></div>
+      <div class="mode-card reviewer-card" role="button" tabindex="0" data-mode="reviewer"><div class="icon">📖</div><h2>Reviewer</h2><p>All MCQ/T‑F with answers, rationale, and reference list.</p><span class="tag">Browse</span></div>
+      <div class="mode-card quiz-card" role="button" tabindex="0" data-mode="quiz"><div class="icon">🎯</div><h2>Quiz Bee</h2><p>Select LO topics, shuffle, timer optional.</p><span class="tag">Practice</span></div>
+      <div class="mode-card essay-card" role="button" tabindex="0" data-mode="essay"><div class="icon">✍</div><h2>Essays</h2><p>Synthesis prompts toward bottom of reviewer page.</p><span class="tag">Study</span></div>
     </div>
     <p style="font-size:12px;color:#78909c">Keys: <span class="kbd">A</span><span class="kbd">D</span> or <span class="kbd">1</span><span class="kbd">4</span> · <kbd style="margin:0;background:#263238;padding:4px;border-radius:4px;color:#cfd8dc">Enter</kbd> next · Esc close</p>
   </div>
@@ -291,8 +291,8 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
   </div>
 </div>
 
-<script src="version.js?v=materials-2026-05-27-v5"></script>
-<script src="questions.js?v=materials-2026-05-27-v5"></script>
+<script src="version.js?v=materials-2026-05-27-v6-buttons"></script>
+<script src="questions.js?v=materials-2026-05-27-v6-buttons"></script>
 <script>
 (function(){
 'use strict';
@@ -632,8 +632,6 @@ function toggleSidebar(){
   var toc=document.getElementById('toc');var mo=document.getElementById('mob-overlay');
   toc.classList.toggle('mobile-open');mo.classList.toggle('open');
 }
-document.getElementById('mob-overlay').addEventListener('click',function(){document.getElementById('toc').classList.remove('mobile-open');this.classList.remove('open');});
-
 /* Quiz overlay */
 function openQuizOverlay(){
   document.getElementById('quiz-overlay').classList.add('open');showLanding();
@@ -659,16 +657,52 @@ function showSetup(){
 function showLandingAfterResults(){el('quiz-results').style.display='none';showLanding();}
 function restartQuizSetup(){el('quiz-results').style.display='none';el('topic-grid').innerHTML='';showSetup();}
 
+function handleModeCard(mode){
+  if(mode==='reviewer'){
+    closeQuizOverlay();
+    var h=location.hash;
+    if(h&&h.length>1){
+      setTimeout(function(){
+        var target=document.querySelector(h)||document.getElementById(h.replace(/^#/,''));
+        if(target)target.scrollIntoView({behavior:'smooth',block:'start'});
+      },80);
+    }
+    return;
+  }
+  if(mode==='quiz'){
+    if(!QB().length){alert('Question bank did not load. Hard-refresh (Ctrl+Shift+R) or check your connection.');return;}
+    showSetup();
+    return;
+  }
+  if(mode==='essay'){
+    closeQuizOverlay();
+    var es=document.getElementById('essay-section');
+    if(es)es.scrollIntoView({behavior:'smooth',block:'start'});
+  }
+}
+
 function wireHomeModeCards(){
   var root=document.getElementById('quiz-landing');
   if(!root||root.dataset.wired==='1')return;
   root.dataset.wired='1';
   root.addEventListener('click',function(ev){
     var card=ev.target.closest('.mode-card');if(!card)return;
-    if(card.classList.contains('reviewer-card')){closeQuizOverlay();return;}
-    if(card.classList.contains('quiz-card')){showSetup();return;}
-    if(card.classList.contains('essay-card')){closeQuizOverlay();var es=document.getElementById('essay-section');if(es)es.scrollIntoView({behavior:'smooth'});}
-  },true);
+    var mode=card.dataset.mode;
+    if(mode)handleModeCard(mode);
+    else if(card.classList.contains('reviewer-card'))handleModeCard('reviewer');
+    else if(card.classList.contains('quiz-card'))handleModeCard('quiz');
+    else if(card.classList.contains('essay-card'))handleModeCard('essay');
+  });
+  root.addEventListener('keydown',function(ev){
+    if(ev.key!=='Enter'&&ev.key!==' ')return;
+    var card=ev.target.closest('.mode-card');if(!card)return;
+    ev.preventDefault();
+    var mode=card.dataset.mode||'';
+    if(!mode&&card.classList.contains('reviewer-card'))mode='reviewer';
+    if(!mode&&card.classList.contains('quiz-card'))mode='quiz';
+    if(!mode&&card.classList.contains('essay-card'))mode='essay';
+    if(mode)handleModeCard(mode);
+  });
 }
 
 function buildTopicGrid(){
@@ -828,6 +862,14 @@ window.nextQuestion=nextQuestion;
 window.showLandingAfterResults=showLandingAfterResults;
 window.restartQuizSetup=restartQuizSetup;
 window.retryWrong=retryWrong;
+window.handleModeCard=handleModeCard;
+
+function routeFromHash(){
+  var h=(location.hash||'').toLowerCase();
+  if(h==='#quiz'||h==='#quizbee'){openQuizBee();return;}
+  if(h==='#review'){closeQuizOverlay();return;}
+  openQuizOverlay();
+}
 
 document.addEventListener('keydown',function(ev){
   var overlay=document.getElementById('quiz-overlay');
@@ -847,20 +889,28 @@ document.addEventListener('keydown',function(ev){
 
 document.addEventListener('DOMContentLoaded',function(){
   try{if(localStorage.getItem('engs32_dark')==='1')document.body.classList.add('dark');}catch(e){}
-  if(!QB().length){el('review-sections').innerHTML='<p style="color:#b71c1c">Missing questions — ensure <code>questions.js</code> loads on this host.</p>';return;}
-  buildToc();buildReviewer();
-  (function(){
-    var qb=QB(),sub=document.querySelector('#quiz-landing .sub');if(!sub||!qb.length)return;
-    var los={};qb.forEach(function(q){los[q.lo]=1;});var nLo=Object.keys(los).length;
-    sub.textContent='Bank loaded: '+qb.length+' MCQ/T‑F items · '+nLo+' learning-outcome topics — same flow as CA3 examiner (offline after first load).';
-  })();
-  el('q-filter').addEventListener('input',applyFilter);
+  var mo=document.getElementById('mob-overlay');
+  if(mo)mo.addEventListener('click',function(){document.getElementById('toc').classList.remove('mobile-open');this.classList.remove('open');});
   wireHomeModeCards();
-  var h=(location.hash||'').toLowerCase();
-  if(h==='#quiz'||h==='#quizbee')openQuizBee();
-  else if(h==='#review')closeQuizOverlay();
-  else openQuizOverlay();
+  var qb=QB();
+  var sub=document.querySelector('#quiz-landing .sub');
+  if(!qb.length){
+    if(el('review-sections'))el('review-sections').innerHTML='<p style="color:#b71c1c">Missing questions — ensure <code>questions.js</code> and <code>version.js</code> load (hard-refresh with Ctrl+Shift+R).</p>';
+    if(sub)sub.textContent='Question bank failed to load — buttons will not start quiz until you refresh.';
+  }else{
+    try{buildToc();buildReviewer();}catch(err){
+      console.error(err);
+      if(el('review-sections'))el('review-sections').innerHTML='<p style="color:#b71c1c">Error building reviewer: '+escapeHtml(String(err.message||err))+'</p>';
+    }
+    if(sub){
+      var los={};qb.forEach(function(q){los[q.lo]=1;});
+      sub.textContent='Bank loaded: '+qb.length+' MCQ/T‑F · '+Object.keys(los).length+' topics · version '+(window.APP_BANK_VERSION||'?');
+    }
+  }
+  if(el('q-filter'))el('q-filter').addEventListener('input',applyFilter);
+  routeFromHash();
 });
+window.addEventListener('hashchange',routeFromHash);
 
 if('serviceWorker' in navigator){
   window.addEventListener('load',function(){
@@ -883,18 +933,6 @@ if('serviceWorker' in navigator){
     ]).then(registerSw).catch(registerSw);
   });
 }
-})();
-</script>
-<script>
-(function(){
-function showHome(){
-  var h=(location.hash||'').toLowerCase();
-  if(h==='#quiz'||h==='#quizbee'){if(typeof openQuizBee==='function')openQuizBee();return;}
-  if(h==='#review'){if(typeof closeQuizOverlay==='function')closeQuizOverlay();return;}
-  if(typeof openQuizOverlay==='function')openQuizOverlay();
-}
-if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',showHome);
-else showHome();
 })();
 </script>
 </body>
