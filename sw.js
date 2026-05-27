@@ -1,6 +1,6 @@
 /* Network-first for bank + shell so GitHub Pages updates show after deploy */
 
-const CACHE = 'engs32-env-v9';
+const CACHE = 'engs32-env-v10';
 
 const SHELL = ['./manifest.json', './icon.svg'];
 
