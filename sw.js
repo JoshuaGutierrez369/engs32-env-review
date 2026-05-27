@@ -1,5 +1,5 @@
 /* Network-first for bank + shell so GitHub Pages updates show after deploy */
-const CACHE = 'engs32-env-v6';
+const CACHE = 'engs32-env-v7';
 const SHELL = ['./manifest.json', './icon.svg'];
 const NETWORK_FIRST_SUFFIXES = ['questions.js', 'sw.js', 'index.html'];
 

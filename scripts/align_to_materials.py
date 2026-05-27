@@ -312,15 +312,24 @@ def main() -> None:
 
     out_lines: list[str] = [header, "window.ENVS_QB = [\n"]
     in_bank = False
+    in_essays = False
     for line in raw.splitlines():
         if "window.ENVS_QB" in line:
             in_bank = True
             continue
-        if not in_bank:
-            if line.strip().startswith("window.ENVS_ESSAYS"):
-                out_lines.append(line + "\n")
+        if line.strip().startswith("window.ENVS_ESSAYS"):
+            in_bank = False
+            in_essays = True
+            out_lines.append(line + "\n")
             continue
-        if line.strip() == "];" and "ENVS_ESSAYS" not in line:
+        if in_essays:
+            out_lines.append(line + "\n")
+            if line.strip() == "];":
+                in_essays = False
+            continue
+        if not in_bank:
+            continue
+        if line.strip() == "];":
             out_lines.append(line + "\n")
             in_bank = False
             continue
