@@ -1,5 +1,9 @@
 ## ENGS 32 — Environmental Science Reviewer (`github.io` pattern)
 
+**Live site (after Pages build):** **[https://joshuagutierrez369.github.io/engs32-env-review/](https://joshuagutierrez369.github.io/engs32-env-review/)**
+
+**Repository:** [JoshuaGutierrez369/engs32-env-review](https://github.com/JoshuaGutierrez369/engs32-env-review)
+
 **Your GitHub Pages domain:** [https://joshuagutierrez369.github.io/](https://joshuagutierrez369.github.io/)
 
 **Recommended live URL for this app** (after you create a repository named `engs32-env-review` on account **joshuagutierrez369** and enable Pages):
