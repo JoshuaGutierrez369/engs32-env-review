@@ -1,0 +1,3 @@
+Audited 109 questions against materials_corpus.txt
+Missing lecture PDF ref in refs[]: 0
+Corpus keyword grounding failures: 0

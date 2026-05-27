@@ -17,9 +17,9 @@
 Standalone static site matching the CA3 examiner flow:
 
 - Landing overlay → **Reviewer** (full bank, expandable rationale + references) or **Quiz Bee** (pick LO topics, shuffle, timer).
-- **`questions.js`** — question bank keyed by LO7–LO13; editable without touching markup.
+- **`questions.js`** — **LO5W** (Lec 5.2 water) and **LO5A** (Lec 5.3 air) each have **23** MCQ/T‑F items, matching the LO7 deck size, plus **LO7–LO13** (`window.ENVS_QB`). Rebuild pollution topics: `python scripts/merge_pollution_topics.py` (sources in `scripts/engs_pollution_bank.py`). Quiz “# Questions” caps to the loaded bank size on open.
 - **PWA-lite**: `manifest.json` + `sw.js` caches `index.html`, `questions.js`, icons (open once online for offline reuse).
-- **Verification notes**: [`SOURCES.md`](./SOURCES.md) lists primary statutes and UN/IPCC portals used to justify keyed answers (e.g. **RA 9003 approved 26 January 2001 on Lawphil**, not the Feb 16 typo some slides repeat).
+- **Answer grounding**: [`MATERIALS.md`](./MATERIALS.md) lists the six lecture PDFs that define keyed answers; [`SOURCES.md`](./SOURCES.md) notes optional cross-checks (Lawphil, UNDP, etc.). Quiz keys follow the **slides** (e.g. RA 9003 enacted **16 February 2001** on Lec 5.4).
 
 ### Deploy to GitHub Pages (account: **joshuagutierrez369**)
 

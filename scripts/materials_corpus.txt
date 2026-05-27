@@ -1,0 +1,2681 @@
+
+
+============================================================
+Lec 5.2 — ENGS 32 - Lec 5.2 - Water Pollution.pdf
+============================================================
+ENGS  32  –   Environmental   
+Concerns
+ 
+and
+  
+Crises
+ 
+ 
+Lecture  5.2   
+Water  Pollution   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  Technology   Cavite  State  University   Indang,  Cavite  
+Pollution   
+•  Pollution  is  the  undesirable  change   in  the  physical,  chemical,  or    biological  characteristics  of  an   ecosystem  resulting  in  diminished   quality  and  utility  of  a  resource.   •  Anything  that  makes  the    environment  undesirable  and   unclean  is  referred  to  as  pollutants .  
+Pollution   
+
+Major  types  of  pollution:  •  water  pollution   •  air  pollution   •  litter   •  light  pollution   •  noise  pollution   •  plastic  pollution   •  soil  contamination   •  radioactive  contamination  •  thermal  pollution   •  visual  pollution  
+Water  Resources  and   
+
+Water  Pollution  Water  Consumption   
+According  to  Article  10,  Water  Code  of  the  Philippines,  water  may   be  appropriated  for  the  following  purposes:   •  Domestic   •  Municipal   •  Irrigation   •  Power  generation   •  Fisheries   •  Livestock  raising   •  Industrial   •  Recreational,  and   •  Other  purposes  
+Domestic   
+•  Use  of  water  for  domestic  purposes  -  the  utilization  of  water  for   drinking,  washing,  bathing,  cooking  or  other  household  needs,   home  gardens,  and  watering  of  lawns  or  domestic  animals.  
+ 
+
+Municipal   
+•  Use  of  water  for  municipal  purposes  -  the  utilization  of  water  for   supplying  the  water  requirements  of  the  community.   
+ 
+
+Industrial   
+•  Use  of  water  for  industrial  purposes  -  the  utilization  of  water  in   factories,  industrial  plants  and  mines,  including  the  use  of  water   as  an  ingredient  of  a  finished  product.  
+ 
+
+Power  Generation   
+•  Use  of  water  for  power  generation  -  the  utilization  of  water  for   producing  electrical  or  mechanical  power.   
+ 
+
+Irrigation   
+•  Use  of  water  for  irrigation  -  the  utilization  of  water  for  producing   agricultural  crops.  
+ 
+
+Fisheries   
+•  Use  of  water  for  fisheries  -  the  utilization  of  water  for  the   propagation  and  culture  of  fish  as  a  commercial  enterprise.  
+ 
+
+Livestock  Raising   
+•  Use  of  water  for  livestock  raising  -  the  utilization  of  water  for   large  herds  or  flocks  of  animals  raised  as  a  commercial   enterprise.   
+ 
+
+Recreational   
+•  Use  of  water  for  recreational  purposes  -  the  utilization  of  water   for  swimming  pools,  bath  houses,  boating,  water  skiing,  golf   courses  and  other  similar  facilities  in  resorts  and  other  places  of   recreation.   
+
+ 
+Water  Consumption   
+ Worldwide,  agriculture  accounts  for  70%  of  all  water  consumption,  compared  to  20%  for   industry  and  10%  for  domestic  use  
+Water  Quality  
+Water  Quality   
+•  Physical  Characteristics   •  Turbidity,  Temperature,  Color,  taste,  and  odor  •  Chemical  Characteristics   •  Biological  Characteristics  
+Turbidity   
+•  When  small  particles  are  suspended   in  water,  they  tend  to  scatter  and   absorb  light  rays.  This  gives  the   water  a  murky  or  turbid  
+appearance,   and  this  effect  is  called  turbidity.   •  Turbidity  is  a  measure  of  the  light  
+transmitting
+ 
+properties
+ 
+of
+ 
+water
+ 
+and
+ 
+is
+ 
+  comprised  of  suspended  and    colloidal  material.  It  is  important   parameter  of  drinking  water  quality   for  health  and  aesthetic  reasons.  
+Turbidity   
+•  Turbidity  is  measured  in  units  that  relate   the  clarity  of  water  sample  to  that  of  a   standardized  suspension  of  
+silica.    •  The  interference  in  the  passage  of  light   caused  by  a  suspension  of  1  mg/L  of   silica  is  equivalent  to  one  turbidity  unit   or  NTU  (Nephelometric  Turbidity   Units)   •  The  instrument  used  for  measuring  it  is   called  Nephelometer  or  Turbidimeter.  
+Turbidity   
+
+Color   
+•  Color  may  be  caused  by  dissolved  or  suspended  colloidal   particles  primarily  from  decaying  leaves  or  microscopic  plants.   •  Colored  water  give  the  appearance  of  being  unfit  to  drink,  even   though  the  water  may  be  perfectly  safe  for  public  use.   
+•  True  Color  &  Apparent  Color  
+Temperature   
+Water  temperature  is  one  of  the  most   important  characteristics  of  an  aquatic   system,  affecting:   •  Dissolved  oxygen  levels .  The   solubility  of  oxygen  decreases  as   water  temperature  increases.   •  Chemical  processes .  Temperature   affects  the  solubility  and  reaction   rates  of  chemicals.  In  general,  the   rate  of  chemical  reactions  increases   with  increasing  water  temperature.  
+Temperature   
+Water  temperature  is  one  of  the  most   important  characteristics  of  an  aquatic   system,  affecting:   •  Biological  processes .  Temperature   affects  metabolism,  growth,  and   reproduction.   •  Species  composition  of  the   aquatic  ecosystem .  Many  aquatic   species  can  survive  only  within  a   limited  temperature  range.  
+Odor  and  Taste   
+•  Hydrogen  sulfide,  H
+2
+S,  is  a  common   cause  of  odor  in  water  supplies.  The   rotten-egg  smell  of  this  gas  may  be   encountered  in  water  that  has  been  in   contact  with  naturally  occurring  deposit   of  decaying  organic  matter.   •  Water  tastes  bitter  when  contaminated   with  alkaline  impurities  and  salty  when   the  impurities  are  metallic  salts.   •  Taste  and  odor  are  human  perceptions  of   water  quality.  
+Water  Quality   
+•  Physical  Characteristics   •  Chemical  Characteristics   •  Dissolved  Oxygen,  Biochemical  Oxygen  Demand,  Solids,  Acidity,   Alkalinity,  and  pH   •  Biological  Characteristics  
+Dissolved  Oxygen    
+•  Dissolved  oxygen  refers  to  the   amount  of  oxygen  present  in    water  needed  by  aquatic    organism  to  survive.  The  higher   the  concentration  of  dissolved    
+oxygen  is,  the  better  the  water    quality.   •  DO  has  no  direct  effect  on    public  health.  But,  drinking    water  with  very  little  or  no    oxygen  tastes  flat.  
+Biochemical  Oxygen  Demand   
+•  Bacterial  and  other  microorganisms  use  organic   substance  for  food.  As  they  metabolize  organic   materials,  they  consume  oxygen.  The  organic    are  broken  down  into  simple  compounds.   •  The  BOD  is  used  as  an  indirect  measure  of  the   
+total  amount  of  biodegradable  organics  in  water.    •  The  more  organic  material  there  is  in  water,  the   higher  the  BOD  exerted  by  the  microbes  will  be.  
+Solids   
+•  Solids  occur  in  water  either  in   solution  or  in  suspension.  These   two  types  of  solids  are    distinguished  by  passing  the   water  through  a  glass-fiber  filter.  •  Suspended  solids  are  retained  on   top  of  the  filter    •  Dissolved  solids  pass  through  the   filter  with  the  water.  
+pH   
+•  pH  is  a  measure  of  the  intensity  of  the  acidity  or   the  alkalinity.  The  primary  reason  for  measuring   the  pH  of  water  is  to  able  to  control  the  water   treatment  process  in  the  water  purification   facility.    •  Alkalinity  is  defined  as  the  capacity  of  natural   water  to  neutralize  acid  added  to  it.  Total   alkalinity  is  the  amount  of  acid  required  to  reach   a  specific  pH.   •  Acidity  is  the  "quantitative  capacity  of  aqueous   media  to  react  with  hydroxyl  ions".  Acidity   indicates  the  corrosiveness  
+of  acidic  water  on   steel,  concrete  and  other  materials.  
+Water  Quality   
+•  Physical  Characteristics   •  Chemical  Characteristics   •  Biological  Characteristics   •  The  presence  or  absence  of  living  organisms  in  water  
+Biological  Characteristics   
+Five  Types  of  Parasitic  Organisms   1.  Bacteria   
+•  Aerobic  bacteria   •  Anaerobic  bacteria   •  Facultative  bacteria   2.  Protozoa   3.  Viruses   4.  Worms   5.  Fungi  
+Water  Pollution  Water  Pollution   
+•  Natural  causes:    •  volcanic  eruptions   
+•  algal  blooms   •  storms   •  earthquakes   
+Sources  of  Water  Pollutants   
+•  Point  sources  -  harmful  substances  are  emitted  directly  into  a   body  of  water    •  Inadequately  treated  domestic  wastewater  or  sewage,  agricultural   wastewater,  industrial  wastewater   •  Example:  A  pipe  dumping  factory  waste  into  a  nearby  river  •  Non-point  sources  -  relatively  scattered  or  diffused,  having  no   specific  location   •  Rain-  and  groundwater  runoff  from  solid  waste  or  garbage  deposits,   which  is  also  known  as  leachate.   
+•  Example:  Agricultural  runoff  which  carries  fertilizers  and  pesticides  
+Types  of  Water  Pollutants   
+•  Sediments  -  tiny  bits  of  soil,  rocks  or  other  solid  particles  that   are  washed  or  blown  from  land  into  the  water.   •  Infectious  agents  –  water  polluted  by  pathogenic  bacteria,   viruses  and  protozoan    •  Diseases  transmitted  via  water  include  viral  hepatitis,  polio  (viral),   typhoid  fever  (bacterial),  amoebic  dysentery  (protozoan),  cholera   (bacterial),  schistosomiasis  (parasitic  worm)  and  salmonellosis   (bacterial)  
+Types  of  Water  Pollutants   
+•  Organic  chemicals  -  include  solvents,    pesticides  and  organic  fertilizers   •  Inorganic  chemicals  –  include  metals,    acids  and  salts  (ex.  Arsenic,  mercury,  lead,   cadmium,  copper,  iron  and  zinc;  toxic    metals  such  as  mercury  and  lead)   •  Radioactive  materials  –  examples  include  radioactive  radium  and  uranium  which  can   found  in  small  amounts  in  almost  all  rock    and  soil,  and  can  dissolve  in  water.   
+Primary  Causes  of  Water   
+Pollution   
+•  Industrial  Wastes   •  Oil  Spill   •  Sewage  and  Waste  Water   •  Lake,  Ocean,  and  Marine  Dumping   •  Underground  Storage  and  Leakages  •  Pesticides  and  Fertilizers   •  Leaking  Landfills   •  Animal  Waste  
+Effects  of  Water  Pollution   
+•  Eutrophication  -  accumulation  of    nutrients  in  lakes  that  results  to  algal    blooms   •  Increased  organic  wastes  increase    biochemical  oxygen  demand.  This    reduces  the  oxygen  available  for    oxygen  dependent  aquatic  lifeforms.  
+Effects  of  Water  Pollution   
+•  Sedimentation  or  deposition  of    
+sediment  in  surface  waters.    •  Sediments  destroy  spawning  and    breeding  grounds  for  fish,  smoother    fish  eggs  and  fry  and  thus  reduces    fish  and  shellfish  populations.    •  Suspended  sediments  decrease  light    penetration  in  water  bodies,  which    may  impair  the  growth  of  aquatic    plants  
+Effects  of  Water  Pollution   
+•  Thermal  pollution  -  lowers  the  dissolved   oxygen  content  of  water  at  the  same  time   
+increasing  the  metabolic  rate  of  aquatic    organisms   •  It  can  cause  thermal  shock,  which  is  the   sudden  death  of  fish  and  other  organisms   that  cannot  escape  in  cooler  neighboring    waters   •  It  can  also  increase  the  susceptibility  of    aquatic  organisms  to  parasites,  certain  toxic   substances  and  pathogens   
+Laws  Related  to  Water   Resources  Philippine  National  Standards  For   
+Drinking  Water   
+•  The  Philippine  National  Standards  for  Drinking  Water  (PNSDW)   is  a  set  of  guidelines  and  requirements  established  by  the   Department  of  Health  (DOH)  to  ensure  the  quality  and  safety  of   drinking  water  in  the  Philippines  (1963).    •  The  PNSDW  covers  all  aspects  of  drinking  water  management,   from  the  source  of  water  to  its  distribution  and  consumption.    •  It  sets  standards  for  physical,  chemical,  and  microbiological   parameters  that  must  be  met  by  drinking  water  providers  to   ensure  that  the  water  is  safe  for  human  consumption.  
+DENR  A.O.  34  series  of  1990   
+•  Entitled  the  “Water  Usage  and  Classification/Water  Quality   Criteria  and  Standards."   •  This  policy  establishes  guidelines  for  the  classification  and   management  of  Philippine  waters  based  on  their  designated   use.    •  It  sets  water  quality  criteria  and  standards  for  various  beneficial   uses,  including  domestic,  agricultural,  and  industrial  purposes,   and  provides  measures  for  the  prevention,  control,  and   abatement  of  water  pollution.   
+DENR  A.O.  34  series  of  1990   
+Freshwater   •  Class  AA  –  Public  Water  Supply  Class  I   •  Class  A  –  Public  Water  Supply  Class  II   •  Class  B  –  Recreational  Water  Class  I   •  Class  C  –  Fisheries,  Recreational  Class  II,  Industrial  Class  I  •  Class  D  –  Agricultural,  Industrial  Class  II  
+DENR  A.O.  34  series  of  1990   
+Coastal  and  Marine  Waters   •  Class  SA  –  Commercial  shellfishes,  protected  parks  and  
+areas  •  Class  SB  –  Recreational  Water  Class  I,  Fishery  Water  Class  I   •  Class  SC  –  Recreational  Water  Class  II,  Fishery  Water  Class  II,   Sanctuaries   •  Class  SD  –  Industrial  Water  Supply  Class  II   
+Philippine  Clean  Water  Act  of   2004   
+•  Republic  Act  (R.A.)  No.  9275:  An  act  providing  for  a   comprehensive  water  quality  management  and  for  other   purposes.   •  Signed  by  former  President  Gloria  Arroyo  on  March  22,  2004   and  took  effect  on  May  6,  2004.   •  Aims  to  protect  the  country’s  water  bodies  from  pollution  from   
+land-based  sources  (industries  and  commercial  establishments,   agriculture  and  community/household  activities).    •  It  provides  for  a  comprehensive  and  integrated  strategy  to   prevent  and  minimize  pollution  through  a  multi-sectoral  and   participatory  approach  involving  all  the  stakeholders.  
+Other  related  laws   
+•  Revised  Water  Usage  And  Classification/Water  Quality  Criteria   Amending  Section  No.  68  And  69,  Chapter  III  Of  The  1978   NPCC  Rules  And  Regulations    •  Revised  Effluent  Regulations  Of  1990,  Revising  And  Amending   The  Effluent  Regulations  Of  1982  
+Assignment   
+•  Report  comparing  the  Philippine  Clean  Water  Act  of  2004,   PNSDW,  and  DENR  AO  34  s.  1990.    •  Emphasis  on  the  function  and  standards.   •  A4,  Arial  11,  at  most  3  pages.   •  Submission  on  May  18,  2023.  
+References   
+•  Cero,  DL  and  Cero,  LL.  Learning  Guide  in  Environmental   Science.  Cavite  State  University   •  Linsley,  R.K.  And  J.B.  Franzini.  1979.  Water-resources   Engineering.  Mcgraw-hill  Kogakusha,  Ltd.   
+•  McGhee,  T.J.  1991.  Water  Supply  And  Sewerage.  Mcgraw-hill,   Inc.  
+
+============================================================
+Lec 5.3 — ENGS 32 - Lec 5.3 - Air Pollution.pdf
+============================================================
+ENGS  32  –   Environmental   
+Concerns
+ 
+and
+  
+Crises
+ 
+ 
+Lecture  5.3   
+Air  Pollution   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  
+Technology
+ 
+Cavite
+ 
+State
+ 
+University
+ 
+ Indang,  Cavite  
+The  Earth’s  Atmosphere   
+•The  atmosphere  
+is
+ 
+an
+  
+ envelop  of  gases    surrounding  the  
+earth
+  
+ and  bound  to  it    permanently  by    gravitational  
+force
+ 
+ •It  is  composed  of    clean  dry  air,  water    
+
+vapor  and  impurities  
+Composition  of  clean  dry  air   
+Component  %   Nitrogen  78.08   Oxygen  20.95   Argon  0.93   Carbon  Dioxide  0.03   Neon  1.8  x  10
+ -3
+ 
+ 
+Helium  5  x  10-4   Krypton  1  x  10-4   Xenon  1  x  10-5   Ozone  variable,  ≈  10
+ -6
+ 
+ 
+Radon  6  x  10
+ -8
+ 
+ 
+Hydrogen  <  1  x  10
+ -3  
+Water  vapor   
+•  changes  phase  easily  because  critical  pressure  and   
+temperature
+ 
+are
+ 
+above
+ 
+atmospheric
+ 
+ranges)
+ 
+ •0  –  4%  by  volume   •agent  or  medium  of  heat  transfer  in  the  atmosphere  •polar  
+regions
+ 
+have
+ 
+lesser
+ 
+distribution
+ 
+compared
+ 
+to
+ 
+the
+ 
+equatorial
+  
+regions
+ 
+Layers  of  the  atmosphere  
+•troposphere  –  
+phenomenon
+ 
+of
+  
+ weather  and  climate  
+occurs
+  
+ here;    (up  to  10  –  18  km)   •  stratosphere  –  up  to  50  
+km
+ 
+ •mesosphere    •thermosphere   •exosphere   
+
+ 
+Air  Pollution   
+
+•Air  pollution  kills  an  estimated  seven  million  people  worldwide   
+every
+ 
+year.
+ 
+ •Air  pollution  is  the  presence  of  toxic  chemicals  or  compounds   
+(including
+ 
+those
+ 
+of
+ 
+biological
+ 
+origin)
+ 
+in
+ 
+the
+ 
+air,
+ 
+at
+ 
+levels
+ 
+that
+ 
+pose
+  
+a
+ 
+health
+ 
+risk.
+ 
+ •Any  alteration  of  the  physical,  chemical  and  biological  properties   
+of
+ 
+the
+ 
+atmosphere,
+ 
+or
+ 
+any
+ 
+discharge
+ 
+thereto
+ 
+of
+ 
+any
+ 
+liquid,
+  
+gaseous
+ 
+or
+ 
+solid
+ 
+substances
+ 
+which
+ 
+will
+ 
+adversely
+ 
+affect
+ 
+their
+  
+utilization
+ 
+for
+ 
+domestic,
+ 
+commercial,
+ 
+industrial,
+ 
+agricultural,
+  
+recreational,
+ 
+or
+ 
+other
+ 
+legitimate
+ 
+purposes.
+ 
+Asian  countries  with  most  polluted  air
+ 
+
+Most  polluted  cities  by  particulate  matter   
+concentration
+ 
+(2016)
+ 
+ 
+1.  Kanpur,  India  2.  Faridabad,  India  3.  Gaya,  India   4.  Varanasi,  India  5.  Patna,  India  6.  New  Delhi,  India   
+7.  Lucknow,  India   8.  Bameda,  Cameroon  9.  Agra,  India   10.Gurgaon,  India   242.  NIA  Road,  Philippines   
+Reference:  WHO  Global  Ambient  Air  Quality  Database  
+
+World's  Most  Polluted  Countries  in  2025  -  PM2.5  Ranking  |  IQAir  
+Countries  with  cleaner  air:
+ 
+
+Air  Pollution  in  2020   
+•  The  implementation  of  lockdown  measures  around  the  world  reduced   
+industrial
+ 
+activities
+ 
+and
+ 
+restricted
+ 
+transportation,
+ 
+therefore
+ 
+leading
+ 
+to
+  
+decreased
+ 
+emissions
+ 
+of
+ 
+pollutants.
+ 
+ •  The  improved  air  quality  was  evident  in  major  cities  like  Metro  Manila,   
+where
+ 
+decreased
+ 
+vehicular
+ 
+traffic
+ 
+and
+ 
+industrial
+ 
+emissions
+ 
+resulted
+ 
+in
+  
+lower
+ 
+levels
+ 
+of
+ 
+pollutants
+ 
+such
+ 
+as
+ 
+nitrogen
+ 
+dioxide
+ 
+(NO
+2
+)
+ 
+and
+  
+particulate
+ 
+matter
+ 
+(PM2.5).
+  
+ •It  was  also  noted  that  a  lot  of  pollutants  from  burning  biomass  in   
+Central
+ 
+Luzon
+ 
+and
+ 
+Cagayan
+ 
+Valley
+ 
+was
+ 
+lowered
+ 
+during
+ 
+the
+ 
+lockdown.
+ 
+•
+ 
+However,
+ 
+this
+ 
+decrease
+ 
+was
+ 
+only
+ 
+temporary
+ 
+and
+ 
+as
+ 
+the
+ 
+lockdown
+  
+measures  ease,  pollution  went  back  to  pre-pandemic  levels.  Source:  UP  Diliman  Information  Office  Source:  Nathaniel  Adam  
+Cruz
+  
+@risingphilippines
+ Source:  Johair  Siscar  Addang  (Pasig)  
+Major  Groups  of  Air  Pollutants  Major  groups  of  air  pollutants:   
+1.  Oxides  of  nitrogen  –  nitrogen  dioxide  (NO
+2
+),  nitric  oxide  
+(NO)
+ 
+•
+ 
+Produced
+ 
+from
+ 
+burning
+ 
+of
+ 
+fossil
+ 
+fuels
+ 
+in
+ 
+vehicles,
+ 
+power
+ 
+plants
+ 
+and
+  
+factories
+ 
+ •  Accounts  for  the  brownish  color  of  smog   •  Aggravate  asthma,  bronchitis,  pneumonia,  chest  colds  and  
+coughing
+ 
+•
+ 
+NO
+2
+ 
+is
+ 
+known
+ 
+to
+ 
+cause
+ 
+heart,
+ 
+lung,
+ 
+kidney
+ 
+and
+ 
+liver
+ 
+damage  
+ 
+Major  groups  of  air  pollutants:   
+2.  Oxides  of  sulfur  –  sulfur  dioxide  
+(SO
+2
+),
+  
+sulfur
+ 
+trioxide
+ 
+(SO
+3
+)
+ 
+ -  Emitted  by  furnaces  and  boilers  such  as  
+in
+  
+power
+ 
+plants,
+ 
+petroleum
+ 
+refineries,
+ 
+
+smelters,   paper  mills,  chemical  plants  and  
+vehicles
+ 
+ -  At  low  concentration  it  is  colorless  and  odorless   
+gas
+ 
+ -  Aggravate  bronchitis,  asthma  and  emphysema;   
+ranked
+ 
+second
+ 
+to
+ 
+smoking
+ 
+in
+ 
+causing
+ 
+respiratory
+  
+damage
+ 
+ -  Can  corrode  metals,  injure  plants  and  impair   
+visibility
+ 
+by
+ 
+as
+ 
+much
+ 
+80%
+ 
+Major  groups  of  air  pollutants:   
+3.  Suspended  particles  –  solid  particles  or  liquid  droplets  -  dust,  
+soot,
+ 
+fly
+ 
+ash,
+ 
+smoke,
+ 
+vapors,
+ 
+aerosols,
+ 
+trace
+ 
+metals,
+  
+asbestos,
+ 
+fertilizers  and  pesticides,  pores,  pollens  etc.  
+ 
+Suspended  particles   
+
+•Closely  linked  to  heart  and  circulatory  diseases  (cardiovascular   
+diseases)
+ 
+ •Benzene,  arsenic  and  asbestos  are  highly  toxic  –  cancers,  birth   
+defects,
+ 
+reproductive
+ 
+and
+ 
+respiratory
+ 
+malfunctions
+ 
+•Lead
+ 
+(paint
+ 
+and
+ 
+gasoline)
+ 
+–
+ 
+soil
+ 
+contamination;
+ 
+highly
+ 
+toxic
+ 
+to
+  
+humans
+ 
+and
+ 
+causes
+ 
+mental
+ 
+retardation,
+ 
+convulsions
+ 
+and
+  
+hallucinations,
+ 
+disrupt
+ 
+kidney
+ 
+and
+ 
+blood
+ 
+functions.
+ 
+The  Air  Quality  Index  AQI   
+•Air  Quality  Index  (AQI)  -  index  for  reporting  daily  air  quality  •An  
+AQI
+ 
+value
+ 
+of
+ 
+100
+ 
+generally
+ 
+corresponds
+ 
+to
+ 
+the
+ 
+national
+ 
+air
+  
+quality
+ 
+standard
+ 
+for
+ 
+the
+ 
+pollutant,
+ 
+which
+ 
+is
+ 
+the
+ 
+level
+ 
+EPA
+ 
+has
+ 
+set
+  
+to
+ 
+protect
+ 
+public
+ 
+health.
+ 
+ 
+  
+Air  Quality  Index  Levels  of  Health  Concern  
+Numerical   Value   
+Meaning  
+Good   0  to  50   Air  quality  is  considered  satisfactory,  and  air  pollution  poses  little  or  no  risk.  
+
+Moderate   51  to  100  Air  quality  is  acceptable;  however,  for  some   pollutants  there  may  be  a  moderate  health   concern  for  a  very  small  number  of  people   who  are  unusually  sensitive  to  air  pollution.  Unhealthy  for    Sensitive  Groups   
+101  to  150  Members  of  sensitive  groups  may   experience  health  effects.  The  general   public  is  not  likely  to  be  affected.   Unhealthy   151  to  200  Everyone  may  begin  to  experience  health   effects;  members  of  sensitive  groups  may   experience  more  serious  health  effects.  Very  Unhealthy   201  to  300   Health  alert:  everyone  may  experience   more  serious  health  effects.  
+Hazardous   301  to  500  Health  warnings  of  emergency  conditions.   The  entire  population  is  more  likely  to  be   affected.    
+f   
+https://waqi.info/  
+
+Effects  of  Air  Pollution  Greehouse  gases  (GHGs)   
+•Carbon  dioxide   •Carbon  monoxide   •Methane   •Nitrous  oxide   
+Greenhouse  effect  -  occurs  when  certain  gases  in  a  planet’s   
+atmosphere
+ 
+traps
+ 
+infrared
+ 
+radiation
+ 
+ This  further  leads  to  global  warming  and  climate  change.  
+Greenhouse  Effect  
+ 
+
+Acid  rain   
+•Produced  when    compounds  like  sulfur   
+dioxide,
+ 
+nitrogen
+ 
+oxides,
+  
+traces
+ 
+of
+ 
+mercury
+ 
+and
+  
+cadmium
+ 
+mix
+ 
+with
+ 
+water
+  
+vapor
+ 
+in
+ 
+the
+ 
+atmosphere
+  
+and
+ 
+form
+ 
+sulfuric
+ 
+acid
+ 
+or
+  
+nitric
+ 
+acid
+ 
+
+Acid  rain   
+•Rain  is  normally  slightly  acidic  (pH=5.6);  acid  rain  (pH  =  2.0)  
+•Acid
+ 
+rain
+ 
+falls
+ 
+into
+ 
+the
+ 
+ground
+ 
+as
+ 
+rain,
+ 
+snow,
+ 
+fog,
+ 
+hail
+ 
+or
+ 
+dust
+ 
+or
+  
+gas
+ 
+and
+ 
+can
+ 
+corrode
+ 
+masonry
+ 
+and
+ 
+metals,
+ 
+and
+ 
+stunt
+ 
+or
+ 
+kill
+  
+plants
+ 
+and
+ 
+animals.
+ 
+ •Destroys  forests  by  leaching  away  soil  nutrients  (Ca,  K,  Al)  
+•Kills
+ 
+fishes
+ 
+and
+ 
+other
+ 
+aquatic
+ 
+organisms
+ 
+(lake
+ 
+acidification)
+ 
+Smog   
+•Urban  signboard  of  pollution   
+•Derived  from  combination  of  smoke  and  fog ;  the  unsightly  pall  of   
+brownish
+ 
+to
+ 
+black
+ 
+haze
+ 
+that
+ 
+hangs
+ 
+in
+ 
+the
+ 
+horizon
+ 
+of
+ 
+polluted
+  
+cities
+ 
+ •Photochemical  smog  –  chemical  reactions  in  the  presence  of    sunlight  
+ 
+Smog  
+
+
+
+Components  of  Smog   
+•Tropospheric  ozone   •Nitric  acid   •Formaldehyde   •Peroxyacyl  nitrate  (PAN)   
+•Impacts  -  Eye  irritation,  Serious  respiratory  problems,  Memory   
+loss
+ 
+Indoor  Air  Pollution  Indoor  Air  Pollution   
+•Air  within  home,  offices,  buildings  can  be  more  seriously  polluted   
+than
+ 
+outdoor
+ 
+air!
+ 
+ •Major  indoor  air  pollutants:   •  Asbestos   •  Formaldehyde  (consumer  products  incl.  wood  products  &  aerosols)   •  Airborne  pesticide  residue   •  Chloroform   •  Perchloroethylene  (dry  cleaning)   •  Paradichlorobenzene  (moth  balls  and  air  fresheners)   •  Disease-causing  organisms   •  Cigarette  smoke  
+Asbestos   
+•Light  fibrous  mineral;  fireproof  and  insulative  
+•
+ 
+Ceilings
+ 
+and
+ 
+floor
+ 
+tiles
+ 
+and
+ 
+packing
+ 
+compounds
+ 
+ •  Easily  inhaled  to  cause  lung  damage  and  cancer  
+ 
+Carbon  monoxide   
+•Odorless,  colorless  gas    •Combustion  sources  such  as  charcoal,  kerosene  heaters,   
+attached
+ 
+garages
+ 
+with
+ 
+poor
+ 
+ventilation;
+ 
+tobacco
+ 
+smoke
+ 
+•Reduces
+ 
+ability
+ 
+of
+ 
+blood
+ 
+to
+ 
+carry
+ 
+oxygen;
+ 
+impairs
+ 
+vision
+ 
+and
+  
+alertness;
+ 
+dizziness,
+ 
+headaches,
+ 
+fatigue,
+ 
+death
+ 
+by
+ 
+suffocation
+ 
+ 
+Formaldehyde   
+•Pungent  gas;  preservative  
+and
+  
+disinfectant
+ 
+ •Foam  insulation,  resin  in   
+particleboards,  plywood    paneling,  fiberboard,  some   
+carpets,
+ 
+drapery
+ 
+and
+ 
+upholstery
+  
+fabrics
+ 
+ •Headaches,  dizziness,  nausea,   
+lethargy,
+ 
+rashes,
+ 
+upper
+  
+ respiratory  irritations  
+Lead  ( Pb )   
+•Metallic  element   •House  paints,  old  plumbing  lines   
+and
+ 
+solder,
+ 
+leaded
+ 
+crystal
+ 
+and
+  
+pottery,  old  toys   •Learning  and  behavior  problems   
+in
+ 
+children,
+ 
+high
+ 
+blood
+ 
+pressure,
+  
+joint
+ 
+pain,
+ 
+concentration
+ 
+problems,
+  
+reproductive
+ 
+problems
+ 
+Biological  pollutants  and   
+microorganisms
+ 
+ 
+•Pollen,  dust  mites,  pet  dander,    bacteria,  molds,  fungi  and  viruses   •Improperly  maintained  heating  
+and
+  
+cooling
+ 
+systems;
+ 
+washroom,
+  
+ 
+humidifiers/  dehumidifiers;  pest  &    plants;  wall-to-wall  carpeting   •Allergic  diseases  and  skin  
+irritation,
+  
+influenza
+ 
+and
+ 
+legionnaire’s
+ 
+disease,
+  
+asthma
+ 
+Nitrogen  dioxide   
+•Brownish  gas   •Gas  appliances,  fireplaces,  
+wood
+  
+and
+ 
+coal
+ 
+stoves
+ 
+ •Eye  and  respiratory  tract   
+irritations;  lower  resistance  to   
+respiratory
+ 
+infection;
+ 
+chronic
+  
+bronchitis
+ 
+Radon  (Rn)   
+•Naturally  occurring,    radioactive  gas   •Rocks  and  soils  that    contain  the  decaying    radioactive  elements  
+of
+  
+uranium
+ 
+and
+ 
+radium;
+ 
+enters
+  
+through  cracks  in    foundation  and  basements  
+Tobacco  smoke   
+•Mixture  of  several  substances  including  known  human   
+carcinogens.
+ 
+ •Known  to  cause  lung  cancer,  heart  disease,  chronic  obstructive   
+pulmonary
+ 
+disease
+ 
+(COPD),
+ 
+emphysema,
+ 
+and
+ 
+other
+ 
+serious
+  
+diseases
+ 
+in
+ 
+smokers
+ 
+and
+ 
+in
+ 
+non-smokers
+ 
+as
+ 
+well.
+ 
+ 
+Volatile  organic  compounds  (VOCs)   
+•Substances  produced  by  synthetic  
+chemical
+  
+ industry;  vaporize  at  room  temperature  eg   
+benzene,  formaldehyde,  acetone,  toluene,    and  xylene   •Paints,  paint  strippers  and  other  solvents,    wood  preservatives,  aerosol  sprays,  cleansers   
+and
+ 
+disinfectants,
+ 
+moth
+ 
+repellents
+ 
+and
+ 
+air
+  
+ fresheners,  stored  fuels  and  automotive    products,  pesticide   •ENT  irritation,  headache,  allergies,  live,  kidney   
+and
+ 
+central
+ 
+nervous
+ 
+system
+ 
+damage
+ 
+References   
+•  Cero,  DL  and  Cero  LL.  Learning  Guide  in  Environmental  Science.  Cavite  State   
+University.   •  Air  Quality  post-ECQ:  the  ‘new  normal’  -  University  of  the  Philippines  Diliman   
+(upd.edu.ph)
+ 
+
+============================================================
+Lec 5.4 — ENGS 32 - Lec 5.4 - Solid Waste.pdf
+============================================================
+ENGS  32  –   Environmental   
+Concerns
+ 
+and
+  
+Crises
+ 
+ 
+Lecture  5.4   
+Solid  Waste   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  Technology   Cavite  State  University   Indang,  Cavite  
+1.  Sources  of  Waste   
+2.  Methods  of  Disposal  3.  
+Salient
+ 
+Features
+ 
+of
+ 
+RA
+ 
+9003
+ 
+The  Solid  Waste  Problem   
+•  Waste  is  a  
+concept
+  
+ unique  to  
+human
+  
+ kind.    
+•  Nature  does  
+
+not    recognize  wastes.    It  reuses  and    recycles!  
+
+ 
+Sources  of  Wastes  Kinds  of  Waste  According  to  Source   
+
+a.  Residential  waste  -   domestic  solid  waste   
+b.  Commercial  waste  -   generated  by  stores,    offices,  and  other  activities    that  do  not  actually  turn  out    a  product  Kinds  of  Waste  According  to  Source…   
+
+c.  Industrial  waste  -  
+results
+  
+ from  manufacturing  
+and
+  
+ industrial  processes   
+d.  Municipal  waste  –  
+a
+  
+ combination  of  household    and  commercial  refuse  Kinds  of  Waste  According  to  Source…   
+
+e.  Agricultural  
+waste
+ 
+–
+ 
+ waste  generated  
+from
+  
+ planting  or  
+harvesting
+  
+ of  crops,  trimming  
+or
+  
+ pruning  of  plants  
+and
+  
+ wastes  or  run-off    
+
+materials  from  farms  or    fields  Kinds  of  Waste  According  to  Source…   
+f.  Hazardous  waste  –   waste  from  
+households,
+  
+ industries  and  
+hospitals
+  
+ containing  toxic    substances   
+
+g.  Biomedical  waste  or    hospital  waste  as    infectious  waste  
+Solid  Waste  Management   
+•  The  purposeful,  systematic    control  of  the  generation,    storage,  collection,  
+transport,
+  
+ separation,  processing,    recycling,  recovery,  and    
+
+disposal  of  solid  waste.  Waste  Stream   
+Waste    generation   
+Storage   
+Collection  
+Transport   
+Reuse    
+Treatment   
+ Recycling    Disposal   
+Waste  Generation  in  Metro    Manila   
+•  9,000  tons  of  wastes  are  generated  per  day  (2016)  to   
+9,500  tons  per  day  (2020)  
+[National
+ 
+Solid
+ 
+Waste
+ 
+Management
+ 
+Commission
+ 
+(NSWMC)]
+ 
+ 
+•  74%  of  these  are  from  HOUSEHOLDS  Waste  Generation  in  Metro    Manila   
+•  High  income  groups  produce  0.5  kg  of  wastes/  capita/   
+day
+ 
+while
+ 
+low
+ 
+income
+ 
+groups
+ 
+produce
+ 
+0.34
+ 
+kg
+ 
+of
+  
+wastes/
+ 
+capita/
+ 
+day
+ 
+(2016)
+ 
+ •  Based  on  a  report  from  DENR  (2020),  it  is  now   
+estimated
+ 
+to
+ 
+be
+ 
+0.7
+ 
+kg/
+ 
+capita/
+ 
+day.
+ 
+Waste  Generation  in  Metro    Manila   
+•  330  km  of  rivers,  creeks  and  drainage  canals  are   
+cleaned
+ 
+every
+ 
+year
+ 
+from
+ 
+about
+ 
+6,000
+ 
+tons
+ 
+of
+ 
+“plastic”
+ 
+garbage
+ 
+ •  2,100  km  of  streets  are  cleaned  from  3,000  tons  of   
+garbage
+ 
+every
+ 
+year
+ Waste  Generation  in  the  Philippines   
+•  In  the  country,  waste  generation  is  estimated  to  be  0.5  
+to  0.7  kg  per  capita  per  day  (2016)  but  this  is  now  
+estimated
+ 
+to
+ 
+be
+ 
+0.4
+ 
+kilos
+,
+ 
+or
+ 
+close
+ 
+to
+ 
+half
+ 
+a
+ 
+kilo
+ 
+per
+ 
+capita
+ 
+for
+ 
+both
+ 
+urban
+ 
+and
+ 
+rural
+ 
+(DENR,
+ 
+2020).
+ 
+ •  In  2016,  is  was  estimated  that  40,087.45  tons  of  waste  
+is
+ 
+generated
+ 
+per
+ 
+day.
+ 
+ •  From  the  2020  projection,  Philippines  has  produced  a  
+total
+ 
+of
+ 
+21,4265,676
+ 
+metric
+ 
+tons
+ 
+of
+ 
+garbage
+ 
+last
+ 
+year
+ Daily  Amount  of  Waste  Generated  by  Municipality/City   
+Source:  PG-ENRO  Municipality/City   Urban   (%)  
+Rural    (%)   
+2007   2008   2009   2010   2013   2015   2017  
+Dasmariñas   100   0   361.61   378.21   395.57   413.73   473.35   517.81   566.43  
+Bacoor   100   0   286.78   299.94   313.71   328.11   375.39   410.65   449.21  
+Imus   85.51   14.49   153.54   160.59   167.96   175.67   200.99   219.87   240.51  
+Gen.  Trias   92.69   7.31   137.16   143.46   150.04   156.93   179.55   196.41   214.85  
+Indang   38.27   61.73   22.98   24.04   25.14   26.30   30.09   32.91   36.00  
+Maragondon   1.78   98.22   13.41   14.03   14.67   15.34   17.56   19.20   21.01  
+Gen.  Aguinaldo   24.06   75.94   7.72   8.07   8.44   8.83   10.10   11.05   12.09  
+Magallanes   2.10   97.90   7.44   7.78   8.14   8.51   9.74   10.65   11.65  
+Total   86.81   13.19   1,712.33   1,790.93   1,873.13   1,959.11   2,241.45   2,451.94   2,682.19  
+  
+Daily  Amount  of  Waste  Generated  by  Municipality/City   
+600   
+500   
+400   
+Weight
+ 
+in
+ 
+ton
+ s   300   
+200   
+100   
+0   Dasmariñas  Bacoor   Imus   Gen.  Trias   Indang   Maragondon  Gen.  Aguinaldo  Magallanes  
+2007  2008  2009  2010  2013  2015  2017   
+Waste  Generation  in  the  Philippines
+ 
+
+CALABARZON  EMB  Solid  Waste  Management  Consolidated  Report,  2018  
+Waste  Generation  in  the  Philippines   
+
+•  NCR :  0.7  kg/person/day   Urban  Population:  0.5  kg/person/day   Rural  Population:  0.3  kg/person/day   
+•  It  was  assumed  that  the  urban  population  would  increase  their   
+waste
+ 
+production
+ 
+rate
+ 
+by
+ 
+1%
+ 
+due
+ 
+to
+ 
+rising
+ 
+income
+ 
+levels.
+ Average  Amount  of  Wastes  Generated/Household  per   Day  in  
+One
+ 
+Month
+ 
+Period
+ 
+by
+ 
+Municipality
+ 
+in
+ 
+Cavite
+ 
+ 
+•  Maragondon,  Cavite  -  1.01  kg/hh/day   
+(Dihan,  2006)   
+•  Gen.  Trias,  Cavite  –  1.0  kg/hh/day   (Dolor,  2007)   
+•  Dasmariñas,  Cavite  -  1.1  kg/hh/day   (Tamondong,  2007)  Average  Amount  of  Wastes  Generated/Household  per   Day  in  
+One
+ 
+Month
+ 
+Period
+ 
+by
+ 
+Municipality
+ 
+in
+ 
+Cavite
+ 
+ 
+•  Cavite  City,  Cavite  -  1.1  kg/hh/day   (Aguda,  2008)   
+•  Tanza,  Cavite  -  1.0  kg/hh/day   (Cabuco,  2008)  Community  Compliance  to  Zero  Waste    Management  in  General  Trias,  Cavite   
+Average  Waste:   •  Subdivision  Residents  =    0.97  kg/household/day   •  Barangay  Residents  =    1.01  kg/household/day   
+24  
+Community  Compliance  to  Zero  Waste    Management  in  General  Trias,  Cavite   
+Correlation  between  socio-economic  characteristics  and   
+wastes
+ 
+produced:
+ 
+ •  Size  of  Family  =  Highly  Significant   •  Income  =  Significant   
+•  Occupation  =  Significant   •  Educational  Attainment  =  Not  Significant  Waste  Stream   
+Waste    generation   
+Storage   
+Collection  
+Transport   
+Reuse    
+Treatment   
+ Recycling    Disposal   
+
+ MRF  of  the  Carmona  Ecology  Committee,  St.  Joseph   
+Parish
+ 28   
+Waste  Stream   
+Waste    
+
+generation   
+Storage   
+Collection  
+Transport   
+Reuse    
+Treatment    Recycling    Disposal   Waste  Stream   
+Waste    generation   
+Storage   
+Collection  
+Transport   Reuse    
+Treatment    Recycling    Disposal  Waste  Stream  
+Waste    
+generation   
+Storage   
+Collection  
+Transport   
+Reuse    
+Treatment   
+ Recycling    Disposal   
+L
+ E T  U S  S E G R E G A T E
+ 
+ 
+ BIODEGRADABLE  Store  in  covered    containers   Peelings   Leftover  foods   Vegetable  trims   Fish/foul/meat   Soft  shells   Leaves/flowers   Twigs/branches   
+Make  compostt   
+RECYCLABLE  WASTES   
+Use  segregation  bins  Newspaper   Ferrous  scrap  metal   Non-ferrous  scrap  metal  Glass   Tin  cans/papers   Plastics   Aluminum   
+Sell  to  junkshops   RESIDUAL  WASTES   
+Put  in  any  plastic  bag  for   transport   
+Sanitary  napkins    Disposable  diapers   Ceramics   Candy  wrappers   Cartons  with  plastic  lining  Wait  
+for  the  schedule  of  trucks  
+33   
+LGU  Initiative  with  FPRDI-DOST  
+Tiles  from  Recycled  Film  Plastic  Waste   
+Hollow-blocks  from  plastic  
+ 
+
+ 
+Waste  Stream   
+Waste    generation   
+Storage   
+Collection  
+Transport   Reuse    
+Treatment   
+ Recycling    Disposal   
+Ecological  Solid  Waste   
+Management
+ 
+Act
+ RA  9003   
+•  Ecological  Solid  Waste  Management  Act  of  2000  
+•  This  law  was  enacted  on  February  16,  2001   •  Main  function  is  to  serve  as  the  country's  framework  in  
+addressing
+ 
+the
+ 
+problem
+ 
+on
+ 
+solid
+ 
+waste
+ 
+ •  This  provides  the  legal  framework  for  the  country’s  systematic,  
+comprehensive
+ 
+and
+ 
+ecological
+ 
+solid
+ 
+waste
+ 
+management
+ 
+program
+ 
+that
+ 
+shall
+ 
+ensure
+ 
+protection
+ 
+of
+ 
+public
+ 
+health
+ 
+and
+ 
+the
+ 
+environment
+ 
+RA  9003   
+•  It  also  underscores  the  need  to  create  the  necessary   
+institutional
+ 
+mechanisms
+ 
+and
+ 
+incentives,
+ 
+as
+ 
+well
+ 
+as
+ 
+imposes
+  
+penalties
+ 
+for
+ 
+acts
+ 
+in
+ 
+violation
+ 
+of
+ 
+any
+ 
+of
+ 
+its
+ 
+provisions.
+ 
+ 
+•  Creation  of  the  National  Solid  Waste  Management   
+Commission
+ 
+(NSWMC),
+ 
+the
+ 
+National
+ 
+Ecology
+ 
+Center
+ 
+(NEC)
+  
+and
+ 
+the
+ 
+Solid
+ 
+Waste
+ 
+Management
+ 
+Board
+ 
+(SWMB)
+ 
+in
+ 
+every
+  
+province,
+ 
+city
+ 
+and
+ 
+municipality
+ 
+in
+ 
+the
+ 
+country.
+ 
+References   
+•  Cero,  DL  and  Cero,  LL.  Learning  Guide  in  Environmental   
+Science.
+ 
+Cavite
+ 
+State
+ 
+University
+ 
+ •  Department  of  Environment  and  Natural  Resources.  
+•
+ 
+National
+ 
+Solid
+ 
+Waste
+ 
+Management
+ 
+Commission.
+ 
+Assignment  2   
+•  Conduct  a  7-day  waste  characterization  of  the  wastes   
+generated
+ 
+by
+ 
+your
+ 
+homes.
+ 
+ •  Each  day,  group  the  wastes  as  follows   •  Biodegradables  (leaves,  kitchen  wastes,  tissues,  etc)   •  Recyclables  (paper,  bottles,  cans,  metals)   •  Residuals  (plastic  wrappers,  wipes,  diapers,  broken  glass,  tetra  packs)  
+•
+ 
+Weigh
+ 
+them
+ 
+daily
+ 
+and
+ 
+accordingly
+ 
+and
+ 
+record
+ 
+them.
+ 
+ •  Take  pictures  of  the  wastes  collected  per  day   •  Analyze  and  discuss  the  data  collected.    •  Submission  on  May  8,  2026  (email:  aaferrera@cvsu.edu.ph).  
+
+============================================================
+Lec 5.5 — ENGS 32 - Lec 5.5 - Climate Change.pdf
+============================================================
+ENGS  32  –   Environmental   
+Concerns
+ 
+and
+  
+Crises
+ 
+ 
+Lecture  5.5   
+Climate  Change   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  Technology   Cavite  State  University   Indang,  Cavite  
+Climate   
+The  long  term  average  of  a  region’s  weather  typically  from  30  years:  
+•
+ 
+average
+ 
+rainfall
+ 
+ •  average  hours  of  
+sunshine
+ 
+ •  average  temperature  
+Climate  
+vs.
+ 
+Weather
+ 
+ 
+•  Weather  describes  
+whatever
+ 
+ is  happening  outdoors  in  a   
+
+given  place  at  a  given  time.   •  Climate  describes  the  total  of   all  weather  occurring  over  a   period  of  years  in  a  given   place.   •  Climate  tells  us  what  it’s   usually  like  in  the  place   where  you  live  at  a  certain   time  of  year.  
+Climate  Change   
+•  Climate  change  represents  a  change  in  these  long-term  weather  patterns.  
+•
+ 
+Average
+ 
+temperature
+ 
+can
+ 
+increase
+ 
+or
+ 
+decrease.
+ 
+ •  Rainfall  can  increase  or  decrease,  as  can  hours  of  sunshine.  •  Climate  
+change
+ 
+has
+ 
+occurred
+ 
+naturally
+ 
+over
+ 
+millions
+ 
+and
+ 
+millions
+ 
+of
+ 
+years.
+ 
+ 
+•  However,  when  scientists  talk  about  the  issue  of  climate  change,  their  
+concern
+ 
+is
+ 
+about
+ 
+global
+ 
+warming
+ 
+caused
+ 
+by
+ 
+human
+ 
+activities.
+ 
+Global  Warming   
+•  The  earth  has   warmed  by  over1.1   to1.2°C  in  the  last   100  years.   •  The  eleven  years   rank  amongst  the   twelve  warmest  
+years
+ 
+ since  records  of   global  surface   temperature  began  
+in
+ 
+ 
+
+1850.   
+IPCC,  2018  
+Greenhouse  Effect   
+•  Greenhouse  gases  work  by  trapping  heat  from  the  sun.   •  The  glass  panels  of  the  greenhouse  let  in  light  but  keep  heat  from  
+escaping.
+ 
+ •  This  causes  the  greenhouse  to  heat  up,  much  like  the  inside  of  a  car  
+parked
+ 
+in
+ 
+sunlight,
+ 
+and
+ 
+keeps
+ 
+the
+ 
+plants
+ 
+warm
+ 
+enough
+ 
+to
+ 
+live
+ 
+in
+ 
+the
+ 
+winter.
+ 
+Greenhouse  Effect   
+•  The  earth’s    atmosphere  
+
+contains    a  number  of    greenhouse  gases.   •  These  gases  behave   like  the  glass  panes   in  a  greenhouse.  
+Greenhouse  Effect   
+•  Carbon  dioxide   •  Carbon  monoxide   •  Methane   •  Nitrous  oxide   
+The  ones  most  closely  associated  with  global  warming  are   
+carbon  dioxide  and  methane .  Keeling  Curve  
+
+ 
+
+Causes  of  Greenhouse  Effect   
+burning  fossil  fuels   •  Since  the  Industrial  Revolution  the  need  for  energy  to  run  machines  has  
+steadily
+ 
+increased.
+ 
+ •  Much  of  this  comes  from  fuels  like  coal  and  oil  –  fossil  fuels.  
+•
+ 
+Burning
+ 
+these
+ 
+fuels
+ 
+releases
+ 
+greenhouse
+ 
+gases.
+ 
+Causes  of  Greenhouse  Effect   
+carbon  cycle   people’s  daily  activities   deforestation   •  Mature  forests  store  enormous  quantities  of  carbon,  which  is  released  into  
+the  atmosphere  when  they  are  cut  down.   •  Forest  covers  30%  of  the  world’s  land  area.  We  are  destroying  28,000  
+square
+ 
+miles
+ 
+a
+ 
+year.
+ 
+Feedback  Loop  on  Climate  Change   
+•  Albedo  Effect.  Rising    temperatures  melt  Arctic  
+sea
+  
+ ice  and  glaciers.  Bright  
+white
+  
+ ice  (which  reflects  80%  of    sunlight)  is  replaced  by  dark    ocean  water  (which  absorbs    90%  of  sunlight)  making  
+more
+  
+ ice  melts,  leading  to  even  more    
+
+heat  absorption.  
+Feedback  Loop  on  Climate  Change   
+•  The  Cooling  Demand  Trap:   As  the  world  gets  hotter,  we    use  more  Air  Conditioning.    This  creates  a  feedback  loop:    more  AC  usage  →  more    electricity  demand  →  more    emissions  (if  the  grid  isn’t    from  renewables)  →  more    heat.  
+Feedback  Loop  on  
+Climate
+ 
+Change
+ 
+ 
+
+•  Thawing  
+Permafrost:
+  
+ This  is  an  
+"indirect"
+  
+ human  
+contributor.
+  
+ The  initial  
+warming
+ 
+is
+  
+ melting  the  Arctic    tundra,  which  is  
+now
+  
+ starting  to  leak  ancient    methane  and  CO
+2
+ 
+ 
+back  into  the  air.  
+Feedback  Loop  on  Climate  Change   
+
+•  Forest  Dieback  
+&
+  
+ Wildfires.  
+Droughts
+  
+ and  heatwaves  
+kill
+  
+ trees  or  spark  
+massive
+  
+ wildfires  so  
+instead
+ 
+of
+  
+ being  "carbon  
+sinks“,
+  
+ the  forests  become    "carbon  sources".   
+Effects  of  Climate  Change   
+
+•  Climate  change  threatens  the  necessities  of  life  that  we  take  for   
+granted
+ 
+–
+ 
+access
+ 
+to
+ 
+food
+ 
+and
+ 
+water
+ 
+and
+ 
+political
+ 
+stability:
+ 
+ •  By  2080  half  the  world’s  population  could  face  a  shortage  of   
+water
+ 
+because
+ 
+of
+ 
+climate
+ 
+change.
+ 
+ •  By  million  people  could  be  permanently  displaced  by  floods,   
+rising
+ 
+sea
+ 
+levels
+ 
+and
+ 
+droughts.
+ 
+ •  Food  and  water  shortages  could  lead  to  migration  and  instability   
+on
+ 
+a
+ 
+scale
+ 
+not
+ 
+seen
+ 
+before.
+ 
+Effects  of  Climate  Change   
+melting  ice  glaciers,  
+rising
+ 
+ 
+
+sea  levels   •  a  warmer  earth  is  causing   glaciers  and  ice  sheets  to   melt,  it  is  also  leading  to   rising  sea  levels   •  the  summer  ice  in  the  arctic   is  predicted  to  disappear   completely  between  2013   and  2040;  a  state  not  seen   on  earth  for  more  than  a   million  years  
+Effects  of  Climate  Change   
+•  Changes  in  climatic  conditions  can  harm  the  delicate  ecosystems   
+in
+ 
+which
+ 
+species
+ 
+live.
+ 
+ 
+•  The  speed  at  which  change  is  happening  means  that  many   
+plants
+ 
+and
+ 
+animals
+ 
+ may  not  be  
+able
+ 
+to
+ 
+ react  quickly  
+enough
+ 
+ to  survive.  
+Effects  of  Climate  Change   
+•  The  poorest  developing  countries  will  be  hit  earliest  and  hardest   
+by
+ 
+climate
+ 
+change,
+ 
+even
+ 
+though
+ 
+they
+ 
+have
+ 
+contributed
+ 
+little
+ 
+to
+  
+causing
+ 
+the
+ 
+problem.
+ 
+Their
+ 
+low
+ 
+incomes
+ 
+make
+ 
+it
+ 
+difficult
+ 
+to
+  
+
+finance  adaptation.   •  Kyoto's  clean  development  mechanism  caps  emissions  by  rich   
+countries,
+ 
+forcing
+ 
+them
+ 
+to
+ 
+buy
+ 
+permits
+ 
+from
+ 
+poor
+ 
+countries
+ 
+to
+  
+emit
+ 
+greenhouse
+ 
+gases.
+ 
+ •  The  funds  raised  are  then  invested  in  projects  that  reduce   
+emissions
+ 
+in
+ 
+the
+ 
+developing
+ 
+countries.
+ 
+Paris  
+Agreement
+ 
+ 
+•  Keep  global  average  
+temperature
+ 
+increase
+  
+to
+ 
+well
+ 
+below
+ 
+2°C
+ 
+(1.5
+ 
+if
+ 
+possible)
+ 
+above
+  
+pre-industrial
+ 
+levels.
+  
+ •  Nationally  Determined  
+
+Contributions   (NDCs)  are  the  individual  
+"action
+ 
+plans"
+  
+each
+ 
+country
+ 
+must
+ 
+submit
+ 
+and
+ 
+update
+ 
+every
+  
+5
+ 
+years
+.
+  
+ •  Every  5  years,  we  look  at  the  aggregate   
+emissions
+ 
+vs.
+ 
+the
+ 
+temperature
+ 
+targets
+ 
+to
+  
+see
+ 
+how
+ 
+far
+ 
+off
+ 
+track
+ 
+we
+ 
+are.
+  
+ •  Developed  nations  are  obligated  to  provide   
+financial
+ 
+resources
+ 
+to
+ 
+help
+ 
+developing
+  
+nations
+ 
+build
+ 
+clean
+ 
+energy
+ 
+and
+ 
+resilient
+  
+infrastructure.
+ 
+References   
+•  Cero,  DL  and  Cero,  LL.  Learning  Guide  in  Environmental   
+Science.
+ 
+Cavite
+ 
+State
+ 
+University
+ 
+ 
+•  Department  of  Environment  and  Natural  Resources.   •  International  Panel  for  Climate  Change.  2018.  Special  Report:   
+Global
+ 
+Warming
+ 
+of
+ 
+1.5
+ 
+ºC.
+  
+ https://www.ipcc.ch/sr15/chapter/chapter-1/  
+
+============================================================
+Lec 6 — ENGS 32 - Lec 6 - EIA.pdf
+============================================================
+ENGS  32  –   Environmental   
+Impact
+  
+ Assessment  
+Lecture
+ 
+6
+ 
+ Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  
+Technology
+ 
+Cavite
+ 
+State
+ 
+University
+ 
+ Indang,  Cavite  
+What  is  EIA?   
+•It  is  a  systematic  study  of  the  relationship  between  a  project  and  the   
+environment.
+ 
+ •It  is  a  process  whereby  an  estimate  is  made  of  the  environmental   
+consequences  which  may  be  expected  to  result  from  a  proposed   development  activity  or  project.   •It  determines  what  influence  a  project  will  have  on  the  environment   and  how  the  environment  will  affect  the  project.  
+Environmental  Impact  Assessment   
+•  EIA  is  a  planning  and  management    tool  that  will  help  government,  the    proponent,  the  affected    communities  and  other  decision    makers  assess  whether  the    
+
+benefits  of  the  project  will  outweigh    the  negative  consequences  or  risks    on  the  environment  
+Environmental  Impact  Assessment   
+•  As  a  planning  tool,  it  helps  planners:   •  where  to  locate  projects   •  how  such  projects  should  be  designed   •  determine  the  operational  constraints  that  will  be  encountered  •  minimize  adverse  environmental  impacts.   •  As  a  management  tool,  it  is  used  for  collecting  and  analyzing   information  about  the  environmental  effects  of  projects  so  as  to  help   in  implementing  decisions.  
+Objectives   
+•  Understand  the  likely  consequences  of  new  projects  or  activities  on   the  environment   •Identify  measures  which  can  minimize  these  consequences  •  Provide  sufficient  data  for  decision  making  
+EIA  Key  Concepts  EIA  Key  Concepts   
+•  Defining  Impacts   •  Characterizing  baseline  conditions  •  Defining  Activity
+ 
+Impacts   
+•  The  impact  of  an  activity  is  the  change  from  the  baseline  situation   caused  by  the  activity .   •  To  measure  an  impact,  you  must  know  what  the  baseline  situation  
+
+is.  •Impacts  can  be  planned  or  unplanned  
+Baseline  Situation   
+•  The  baseline  situation  is  the  existing  environmental  situation  or   condition  in  the  absence  of  the  activity.   •  The  environmental  components  of  interest  are  those:  •likely  to  be  affected  by  your  activity   •  upon  which  your  activity  depends  for  its  success   •  For  example:  water,  soil,  fauna,  flora,  environmental  health,  special   ecosystems    •  The  baseline  situation  is  not  just  a  “snapshot  in  time”  but  is  a  process   that  has  variability  and  trend  over  time  
+Characteristics  of  Environmental  Impacts  •type  and  
+nature
+ 
+ 
+•  magnitude  •  extent   •timing   •  duration   •  uncertainty  •reversibility  •  significance   
+Focus  only  in  the  most   significant  impacts!  We  do  not  have  time   and  resources  to    analyze  and  discuss  in   detail  less  important   ones  
+Integration  within  EIA   
+The  EIA  process  addresses  the  following  environmental  
+effects:  •  biophysical  and  resource  use   •  social  and  cultural   •  health  and  safety   •  economic  and  fiscal   •landscape  and  visual   •indigenous  peoples’  rights  and  traditional  areas  
+Activity   
+•  The  EIA  process  examines  the  impacts  of  activities.  •  An  activity  is  a  desired  accomplishment  or  output  (e.g:  major  mining,   road,  power  plant,  or  river  diversion  to  irrigate  land)   •  A  project  or  program  may  consist  of  many  activities   •  Accomplishing  an  activity  requires  a  set  of  actions   
+ACTIVITY   access  road,   rehabilitation,  reclamation   
+ACTIONS   Survey,  grading,  culvert  construction,  compaction,   etc.  .  .  
+Philippine  Environmental  Impact   
+Statement
+ Environmental  Impact  Statement  System   
+•  The  EIS  System  refers  to  
+the
+  
+ 
+
+entire  process  of  organization,    administration  and  procedure    institutionalized  for  the  purpose    of  assessing  the  significance  of    the  effects  of  the  physical    developments  on  the  quality  of    the  environment.  
+Legal  Bases  for  an  EIA   
+•  PD  1151  –  mandates  all  agencies  and  instrumentalities  of  the   national  govt,  including  GOCCs,  as  well  as  private  corporations,  firms   and  entities  to  prepare  EIS  for  any  project/  undertaking  which   significantly  affects  the  quality  of  the  environment   •  PD  1586  –  established  the  Environmental  Impact  Statement  System   and  defines  its  scope,  which  covers  environmentally  critical  projects   
+(ECPs)  and  environmentally  critical  areas  (ECAs)  Presidential  Decree  No.  1586  (1978)   Philippine  Environmental  Impact  Statement  System   
+•  Facilitate  the  attainment  of  rational  &  orderly  balance  between  socio  economic  growth  &  environmental  protection   •  Concepts  of  Environmentally  Critical  Projects  (ECP)  and  projects  within   Environmentally  Critical  Areas  (ECA)   •  “No  person,  partnership  or  corporation  shall  undertake  or  operate  any   environmentally  critical  project  (ECP)  or  locate  a  project  within  an   environmentally  critical  area  (ECA)  without  first  securing  an  Environmental   Compliance  Certificate”   •  Presidential  Proclamation  (PP)  2146  PEISS  Coverage  Technical   Description:  Proclaiming  certain  areas  and  types  of  projects  as   environmentally  critical  and  within  the  scope  of  the  environmental  impact   statement  system  established  under  PD  1586.  
+Categorization  of  Projects   
+•  Category  A  -  projects  or  undertakings  which  are  classified  as   environmentally  critical  projects  (ECPs)  under  Presidential   Proclamation  No.  2146  (1981),  Proclamation  No.  803  (1996),  and   any  other  projects  that  may  later  be  declared  as  such  by  the   President  of  the  Philippines.   •  Category  B  –  projects  or  undertakings  which  are  not  classified  as   ECP  under  Category  A,  but  which  are  likewise  deemed  to   significantly  affect  the  quality  of  the  environment  by  virtue  of  being   located  in  Environmentally  Critical  Area  (ECA)  as  declared  under   Proclamation  2146  and  according  to  the  parameters  set  forth  in  the   succeeding  sections.  
+Categorization  of  Projects   
+•  Category  C  –  projects  or  undertakings  not  falling  under  Category  A  or   B  which  are  intended  to  directly  enhance  the  quality  of  the   environment  or  directly  address  existing  environmental  problems.   •  Category  D  –  projects  or  undertakings  that  are  deemed  unlikely  to   cause  significant  adverse  impact  on  the  quality  of  the  environment   according  to  the  parameters  set  forth  in  the  Screening  Guidelines.   These  projects  are  not  covered  by  the  Philippine  EIS  system  and  are    not  required  to  secure  an  ECC.  
+Categorization  of  Projects  Project  Project  Category  Remarks  
+ECP  CATEGORY  A   
+Required  to  Secure  ECC   
+Non  ECP  in  ECA  CATEGORY  B   
+Environmental  Enhancement  CATEGORY  C   Not  required  to  secure   ECC  but  may  secure  CNC   Not  covered  CATEGORY  D  
+  
+The  Philippine  EIS  System   
+NON-COVERAGE  COVERAGE  
+PROJECT  BRIEF  IEE   
+EIS   (ECA)   
+(ECP)   
+Certificate  of  Non  Coverage  
+(CNC)   Issuance  or  non-issuance  of   Environmental  Compliance   Certificate  (ECC)  
+Environmentally  Critical  Projects   
+•  Heavy  industries   •  Non-ferrous  metal  industries   •Iron  and  steel  mills   •  Petroleum  and  petro-chemical  industries   •  Smelting  plants  
+Environmentally  Critical  Projects   
+•  Resources  extractive  industries   •  major  mining  and  quarrying  
+
+projects   •  forestry  projects   •  fishery  projects  
+Environmentally  Critical  Projects   
+•Infrastructure  projects   •  major  dams   •  major  power  plants   •  major  reclamation  projects   •  major  roads  and  bridges   •  golf  courses  
+
+Environmentally  Critical  Areas   
+•  National  parks,  watershed  reserves,  wildlife  preserve  and   sanctuaries   •  Potential  tourist  spots   •  Habitat  for  any  endangered  or  threatened  species  of  indigenous   Philippine  wildlife  (flora  and  fauna)   •  Unique  historical,  archeological  or  scientific  interest  
+Environmentally  Critical  Areas   
+•  Areas  traditionally  occupied  by  cultural  communities  or  tribes  •  Areas  frequently  visited  and/or  hard-hit  by  natural  calamities  •  Areas  with  critical  slopes   
+•  Prime  agricultural  lands   •  Recharge  areas  of  aquifers   •  Water  bodies   •  Mangrove  areas   •  Coral  reefs  
+General  Procedure  for  the  
+Environmental
+ 
+Impact
+  
+Assessment
+ EIA  Process  &  Project  Cycles   
+Detailed  EIA,  Identification  of  Mitigation  Needs,  inputs    Site  selection,  environmental  screening,  initial   assessment,  scoping   
+Project    Conceptualization/    Improvement   
+Monitoring  and  evaluation  of    environmental  performance   
+Monitoring  and    Evaluation   Pre-feasibility   
+Project   Cycle   
+Implementation   to  BCA   
+Findings  and  recommendations  of  EIA  considered   in  various  permits  and  licenses  needed  
+Feasibility   
+Detailed  design  of  mitigation  measures   
+Detailed    Engineering  and    
+Design   
+Implementation  of  mitigation  measures   
+Benefits  of  EIA   
+It  provides  mechanisms  for  assuring   •  Assuring  that  the  project  commitment  comply  with  the  principles  of  sustainable   development    •  Assuring  that  economic  &  environmental  costs  and  benefits  are  equally  taken  into   consideration  in  project  development  decisions   •  Assuring  better  and  socially  acceptable  projects  that  encourages  the  use  of  cleaner   technologies   •  Encouraging  multi-sectoral  and  multi-dimensional  approaches  to  sustainable  project   planning  and   •  Identifying  alternatives  and  measures  that  can  prevent,  minimize  reduce,  alleviate  the   adverse  consequences  of  project  development   •  Assuring  that  the  quality  of  the  environment  and  well-being  of  the  people  are   safeguarded  
+Procedure   
+1.  Scoping   2.  Baseline  or  Site  characterization   3.  Prediction  of  impacts   4.  Evaluation  of  impacts  and  proposed  alternatives  5.  Identification  and  assessment  of  mitigating  measures  6.  Preparation  of  the  environmental  impact  statement  (EIS)  7.  Review  of  the  submitted  EIS   8.  Granting  of  the  Environmental  Compliance  Certificate  9.  Post  Auditing  and  Monitoring  
+1.  Scoping   
+•  Establishment  of  spatial  boundaries:   •  Direct  impact  area  -  area  where  ALL  project  facilities  are   
+proposed  to  be  constructed/situated   •  Primary  impact  zone   •  Secondary  impact  zone   •  Regional  impact  zone  -  pertains  more  to  the  general  area  where   the  impact  of  the  project  would  be  felt,  such  as  the  entire   municipality,  province  or  region  
+1.  Scoping…   
+•  Establishment  of  temporal  boundary:  •  Pre-construction   •  Construction   •  Operation  and  maintenance  •  Abandonment/  Decommissioning  
+1.  Scoping…   
+•Identification  of  key  issues  and  concerns   Composition  of  the  EIA  team   •  To  ensure  that  the  study  addresses  all  the  issues  of  importance  to   the  decision-makers   •  To  set  the  boundaries  of  a  project  to  focus  activities  in  the  EIA   study  
+2.  Baseline  characterization   
+•  Collection  of  secondary  data   •  Evaluation  of  gathered  data   •Identification  of  data  gaps   •  Collection  of  primary  data  
+3.  Impact  prediction   
+•  What  will  happen  as  a  result  of  the  project?   •  Characterizes  project  activities  from  “cradle  to  grave”  •  Synthesizes  baseline  data  to  describe  the  initial  environment  
+3.  Impact  prediction…   
+•Identifies  all  potential,  direct  and  indirect  impacts    •  Type,  magnitude  or  spatial  dimension  of  an  effect  or  change  on  an   environmental  concern   •  Both  qualitative  and  quantitative  
+3.  Impact  prediction…   
+•  Prediction  approaches:   •  Expert  judgment   •  Comparisons   •  On-site  experiments   •  Mathematical  models  
+4.  Impact  evaluation   
+•  Analysis  of  the  significance  of  impacts  as  basis  for  implementation  of   mitigation  measures   •  Statistical  –  extent  and  likelihood  of  effects   •  Ecological  –  depending  on  level  of  organization   •  Social  importance  
+4.  Impact  evaluation   
+Ecosystem  Components  Pre-Const  Const  O&M  
+ Abandonment
+ 
+ 
+A.  Physical    Air    Water    Land   B.  Biological    Flora    Fauna   C.  Economic    Employment/Income   Transportation   D.  Socio-cultural    Demography    Health     Other  social  services  
+1   2   3   4   
+     
+     
+  
+12   
+4.  Impact  evaluation   
+•  Alternatives   •  Facility  siting   •  Operating  processes  schedules  and  engineering  design  •  Comparison  of  alternatives  and  selection  criteria  •  Preferred  alternatives  
+5.  Environmental  Management  Plan   
+•Identification  and  assessment  of  mitigating  measures  •  What  can  be  done  to  mitigate  project  impacts?  •  Can  project  impact  predictions  and  mitigating  measures  be   verified?   •  Purpose   •  Enhance  positive  impacts   
+•  Reduce  negative  impacts   •Impact  management   •Impact  monitoring   •  Reporting  and  accountability  
+Continuation  of  Procedure  
+6.  Preparation  of  the  environmental  impact  statement  (EIS)  7.  Review  of  the  submitted  EIS   8.  Granting  of  the  Environmental  Compliance  Certificate  9.  Post  Auditing  and  Monitoring   
+Environmental    Compliance  Certificate  Environmental  Compliance  Certificate   
+•  Any  project  in  the  country  that  may  pose  potential  environmental   risks  or  impacts  is  required  to  secure  an  Environmental  Compliance   Certificate  (ECC)  from  the  DENR  –  Environmental  Management   
+
+Board  (DENR-EMB).   •  ECC  certifies  that  the  project  under  consideration  will  have  minimal   environmental  effects  for  as  long  as  the  conditions  stipulated  in  the   ECC  are  strictly  followed  and  that  the  proponent  has  complied  with   requirements  of  the  EIS  System.   •  ECCs  for  ECPs  are  issued  by  the  EMB  and  signed  by  the  DENR   Secretary  while  ECCs  for  projects  in  ECAs  are  issued  by  the   Regional  Offices  and  signed  by  the  Regional  Executive  Directors.  
+Exemptions  in  the  ECC   
+•  Projects  falling  within  the  scope  of  the  EIS  system  cannot  be   implemented  without  securing  an  ECC.   •  Exemptions  include:   
+•  Minimal  waste  discharge  and  waste  management  is  relatively  easy  •It  has  a  capitalization  of  not  more  than  Php.  500,000  •It  employs  not  more  than  20  persons   •  Projects  exempted  should  apply  for  the  Certificate  of  Exemption  or   the  Certificate  of  Non-Coverage  
+Contents  of  ECC   
+•  ECC  contains  specific  measures  and  conditions  that  the  project   proponent  has  to  undertake  before  and  during  the  operation  of  a   project,  and  in  some  cases,  during  abandonment  phase,  to  mitigate   identified  environmental  impacts.    •  Scope  of  project   •  Conditions  as  conformed  by  the  proponent  to  implement  mitigation   measures  for  potentially  negative  impacts  and/  or  enhancement   measures  for  potentially  positive  impacts  as  identified  in  the  EIA   
+Report   •  Suggestions/  recommendations  to  assist  LGUs  and  other   government  agencies  to  incorporate  the  EIA  results  in  their   decision  making  process.  EIA  in  the  application    of  ECC  
+ 
+Validity  of  ECC   
+
+•  The  ECC  remains  valid  and  active  for  the  lifetime  of  the  project.  •  ECC  expires  if  the  project  has  not  been  implemented  within  five  (5)   years  from  ECC  issuance.   •If  the  baseline  characteristics  have  significantly  changed  to  the  extent   that  the  impact  assessment  as  embodied  in  the  (Environmental   Management  Plan)  EMP  is  no  longer  appropriate  the  EMB  office   concerned  shall  require  the  proponent  to  submit  a  new  application.  
+Resources   
+•  Sample  documents  for  EIA  report  and  ECC   •  Official-List-of-Registered-Individual-Preparers-for-posting-REVISED-9-19-2018.pdf   (emb.gov.ph)   •  Registered  Consulting  Firms  for  EIA  Report  Preparation  |  Environmental  Impact   
+Assessment  and  Management  Division  (emb.gov.ph)   •  Updated  List  of  ECPs  with  ECCs  |  Environmental  Impact  Assessment  and   Management  Division  (emb.gov.ph)   •  EMB  CALABARZON  |  Environmental  Management  Bureau  –  4A  
+
+
+References   
+•  Cero,  DL  and  Cero,  LL.  Learning  Guide  in  Environmental  Science.   Cavite  State  University   •  Environmental  Management  Bureau.  http://www.emb.gov.ph/eia/  •  Various  EIA  handouts.  SESAM,  UPLB.   •  Sajul,  2015.  Environmental  Impact  Assessment.  LGU  Orientation  on   PEIS  System   •  Tiwaquen,  RMJ.  Environmental  Impact  Assessment  in  the  Philippines  
+
+============================================================
+Lec 7 — ENGS 32 - Lec 7 - Sustainable Development.pdf
+============================================================
+ENGS  32  –  
+Sustainable
+  
+Development
+ 
+ 
+Lecture  6   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering  
+College
+ 
+of
+ 
+Engineering
+ 
+&
+ 
+Information
+ 
+Technology
+ 
+Cavite
+ 
+State
+ 
+University
+ 
+ Indang,  Cavite  
+Development   
+•  Development,  in  a  report  from  UN,  is   defined  as  an  increase  in  well-being  across   the  members  of  a  society  between  two   points  in  time.    •  This  in  turn,  refers  to  any  activity  that  can   improve  the  lives  or  give  benefits  to  people   
+
+over  a  period  of  time   •  However,  development  may  not  always   ‘sustainable’  
+Sustainable  Development   
+•  The  concept  of  “sustainable  development”    was  popularized  as  a  normative  goal  by    the  World  Commission  on  Environment    and  Development  the  in  their  1987  report    to  the  General  Assembly  of  the  United    Nations  Our  Common  Future.   •  According  to  UN  World  Commission  on    Environment  and  Development  (1987),    sustainable  development  was  defined  as  a    development  that  “ meets  the  needs  of  the    present  without  compromising  the  ability  of    
+
+future  generations  to  meet  their  own    needs ”  
+Sustainable  Development   
+•  Sustainable  development  endeavors  to  strike   a  harmonious  equilibrium  among  economic   development,  environmental  protection,   and  social  well-being.   •  Sustainable  development  seeks  to  achieve   human  development  objectives  while  ensuring   that  natural  systems  can  continue  to  supply   essential  resources  and  ecosystem  services  to   support  human  well-being.   •  Its  ultimate  goal  is  to  create  a  society  where   
+
+the  fulfillment  of  human  needs  and  the    preservation  of  the  planet's  integrity  and    stability  go  hand  in  hand.   
+Sustainable  Development  
+ When  development  is  unsustainable  
+
+
+
+
+
+
+ Sustainable  Development
+
+ 
+Approaches  for  Sustainable   
+Development  Approaches  for  Sustainable  Development   
+•  In  order  to  adapt  for  sustainable  development,  there  will  be  some  changes  and   
+adjustments
+ 
+made
+ 
+to
+ 
+various
+ 
+systems,
+ 
+practices,
+ 
+and
+ 
+behaviors
+ 
+that
+ 
+we
+ 
+currently
+  
+have
+ 
+in
+ 
+order
+ 
+to
+ 
+promote
+ 
+sustainability.
+ 
+ •  Some  examples  include:   •  Renewable  Energy   •  Sustainable  Agriculture   •  Energy  Efficiency   •  Circular  Economy  and  Cleaner  Production   •  Green  Cities,  Buildings,  and  Design   •  Education  and  Awareness  about  Sustainable  Development   •  Policy  and  Governance  supporting  Sustainable  Development   •  and  others…  
+Renewable  Energy   
+•  Renewable  energy  refers  to  energy  sources  that  are  naturally  replenished  and  have  a   minimal  impact  on  the  environment.    •  These  energy  sources  are  derived  from  natural  processes  that  occur  continuously  or   can  be  naturally  replenished  within  a  relatively  short  period  typically  within  a  human   timescale.   •  Renewable  energy  plays  a  critical  role  in  promoting  sustainable  development  by   addressing  multiple  environmental,  social,  and  economic  challenges  
+ 
+Renewable  Energy   
+•  Solar  Energy:  Solar  energy  harnesses  the  power  of  sunlight  and  converts  it  into   usable  electricity  or  heat.    •  Wind  Energy:  Wind  turbines  convert  the  kinetic  energy  of  the  wind  into  electricity.  As   the  wind  blows,  it  rotates  the  turbine  blades,  which  spin  a  generator  to  produce   electricity.    •  Hydropower:  Hydropower  harnesses  the  energy  of  moving  or  falling  water  to  generate   electricity.  It  involves  the  use  of  dams  or  flowing  water  to  turn  turbines  and  produce   electricity.    •  Biomass:  Biomass  energy  is  derived  from  organic  matter  such  as  wood,  crop   residues,  agricultural  waste,  or  dedicated  energy  crops.  It  can  be  used  for  heat   generation  or  converted  into  biogas  or  biofuels  to  produce  electricity  or  power   vehicles.   •  Geothermal  Energy:  Geothermal  energy  utilizes  heat  from  within  the  Earth.   Geothermal  power  plants  extract  steam  or  hot  water  from  underground  and  convert  it   into  electricity.  
+Sustainable  Agriculture   
+•  Sustainable  Agriculture  refers  to  the  practice  of  doing  agricultural  activities  with   sustainability  in  mind.  This  can  be  done  by  management  of  resources  or  based  on  an   understanding  of  ecosystem  services.    •  Examples  of  agricultural  practices  that  promote  sustainability:    •  Reduction  of  chemical  use  in  farming   •  Flexible  business  process  and  farming  practices   •  Organic  farming   •  Resource  conservation   •  Crop  rotation,  multiple  cropping,  agroforestry  and  permaculture   •  Agrobiodiversity  conservation   •  Sustainable  livestock  management  
+Energy  Efficiency   
+•  Energy  efficiency  involves  utilizing   reduced  energy  consumption  to   accomplish  a  specific  task  or  achieve  a   desired  outcome.   •  Homes  and  buildings  that  prioritize  energy   efficiency  consume  less  energy  for  heating,   cooling,  and  operating  various  appliances   and  electronic  devices.    •  Industries  that  prioritize  energy  efficiency   consume  less  energy  during  the  production   process  of  goods.   •  This  reduces  energy  consumption,   lowers  greenhouse  gas  emissions,   lowers  cost  requirements,  conserves   energy  resources,  and  improves  indoor   air  quality.  
+Circular  Economy  and  Cleaner  Production   
+•  Cleaner  production  centers    on  enhancing  the    environmental  performance    of  production  processes  and    minimizing  the  ecological    impact  of  industrial    activities.    •  This  helps  reduce  or    suggest  better  choices  in    use  of  materials  and  energy,    and  to  avoid  waste,  waste    water  generation,  and    
+gaseous  emissions,  and    also  waste  heat  and  noise.  
+Circular  Economy  and  Cleaner  Production   
+•  Circular  economy    minimizes  wastes  and    maximizes  resource    efficiency.    •  The  idea  is  to  reduce    the  finite  resources  that    are  being  utilized,  thus    reducing  waste.  Raw    materials  and  wastes    
+are  also  kept  for  as  long    as  possible  through    reusing,  reducing  and    recycling.   
+Green  Design   
+•  Also  known  as  environmentally  sustainable   design  or  eco-design  is  a  design  philosophy  that   incorporates  environmental  considerations  into   the  design  and  development  of  products,   buildings,  systems,  and  processes.    •  Some  factors  considered  for  green  design   includes:   •  Environmental  footprint   •  Material  selection   •  Energy  efficiency   
+•  Life  cycle  assessment   •  Design  and  disassembly   •  Biophilic  design   •  Water  efficiency   •  Social  considerations   
+Education  and  Awareness   
+•  Education  helps  individuals  develop  an    understanding  of  environmental    challenges,  such  as  climate  change,    biodiversity  loss,  resource  depletion,    and  pollution.   •  It  raises  awareness  about  the    interconnectedness  of  human  activities    
+and  the  environment,  highlighting  the    need  for  sustainable  practices.   •  It  also  prepares  individuals  for  green    careers  and  fosters  innovation  in    sustainability-related  fields.   
+Policy  and  Governance   
+•  Lawmakers  and  implementers  have  a   crucial  role  in  sustainable    development  from  a  local  to  national    and  to  a  global  scale.  They  set  the    goals  and  provide  the  plan  that  will    help  a  nation  achieve  
+sustainability.    •  This  can  range  from  addressing    environmental  problems  (such  as    pollution,  climate  change  and    conservation  of  natural  resources),    promoting  social  equity,  economic    instruments,  and  to  imposing  of    regulations  and  its  monitoring.  
+UN  Sustainable  Development   Goals  UN  Sustainable  Development  Goals   
+•  The  Sustainable    Development  Goals  or    
+Global  Goals  are  a    collection  of    seventeen  interlinked    objectives  designed  to    serve  as  a  "shared    blueprint  for  peace    and  prosperity  for    people  and  the  planet,    now  and  into  the    future.  Source:  Azote  Images  for  Stockholm  Resilience  Centre,  Stockholm  University  
+Measures  of  Sustainable  Development   
+•  Well-being  has  much  potential  for  measuring  sustainable  development  if  it  is   broadened  beyond  its  traditional  scope  in  economics.   •  In  economics,  well-being  is  defined  as  the  discounted  present  value  of  future  utility.   However,  not  all  benefits  can  be  measured  in  monetary  terms.   
+•  It  may  include  a  mix  of  different  factors  that  quantifies  how  a  project,  organization  or   nation  achieve  sustainability  in  terms  of  social,  economic,  and  environmental  aspect.   •  Some  of  the  measures  include   •  Human  Development  Index  (HDI) :  The  HDI  is  a  composite  measure  that  takes  into   account  factors  such  as  life  expectancy,  education,  and  income.    •  Gender  Inequality  Index  (GII):  The  GII  measures  gender-based  inequalities  in   reproductive  health,  empowerment,  and  economic  status.  It  considers  indicators  such   as  maternal  mortality  rates,  women's  representation  in  politics  and  the  workforce,  and   educational  attainment.  
+Measures  of  Sustainable  Development   
+•  Multidimensional  Poverty  Index  (MPI):  The  MPI  measures  poverty  by  considering   multiple  dimensions  beyond  income,  such  as  health,  education,  and  standard  of  living.   It  identifies  individuals  or  households  who  experience  simultaneous  deprivations  across   these  dimensions.    •  Environmental  Performance  Index  (EPI):  The  EPI  ranks  countries'  performance  in   
+environmental  sustainability.  It  assesses  indicators  related  to  environmental  health,  air   quality,  water  and  sanitation,  biodiversity,  and  climate  change  mitigation.    •  Ecological  Footprint:  The  concept  of  ecological  footprint  measures  the  impact  of   human  activities  on  the  environment  by  assessing  the  amount  of  resources  and  land   required  to  sustain  a  population  or  an  individual's  consumption  patterns.  It  provides  a   means  to  evaluate  the  sustainability  of  resource  use  and  to  compare  the  ecological   demands  of  different  regions  or  countries.  
+References   
+•  United  Nations,  2009.  Measuring  Sustainable  Development.  From:   https://sustainabledevelopment.un.org/content/documents/801Measu  ring_sustainable_development.pdf   •  United  Nations,  2017.  Pathways  to  Sustainable  Development.  From:   https://sustainabledevelopment.un.org/content/documents/15721Belg  ium_Rev.pdf   
+•  Clark,  CC  &  Harley,  AG.  Sustainability  Science:  Toward  a  Synthesis.   Annual  Review  of  Environment  and  Resources  Vol.  45:331-386.   From:  https://www.annualreviews.org/doi/10.1146/annurev-environ  012420-043621  

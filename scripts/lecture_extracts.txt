@@ -1,0 +1,1207 @@
+
+
+============================================================
+ENGS 32 - Lec 5.2 - Water Pollution.pdf
+============================================================
+ENGS  32  –   Environmental   
+Concerns
+ 
+and
+  
+Crises
+ 
+ 
+Lecture  5.2   
+Water  Pollution   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  Technology   Cavite  State  University   Indang,  Cavite  
+Pollution   
+•  Pollution  is  the  undesirable  change   in  the  physical,  chemical,  or    biological  characteristics  of  an   ecosystem  resulting  in  diminished   quality  and  utility  of  a  resource.   •  Anything  that  makes  the    environment  undesirable  and   unclean  is  referred  to  as  pollutants .  
+Pollution   
+
+Major  types  of  pollution:  •  water  pollution   •  air  pollution   •  litter   •  light  pollution   •  noise  pollution   •  plastic  pollution   •  soil  contamination   •  radioactive  contamination  •  thermal  pollution   •  visual  pollution  
+Water  Resources  and   
+
+Water  Pollution  Water  Consumption   
+According  to  Article  10,  Water  Code  of  the  Philippines,  water  may   be  appropriated  for  the  following  purposes:   •  Domestic   •  Municipal   •  Irrigation   •  Power  generation   •  Fisheries   •  Livestock  raising   •  Industrial   •  Recreational,  and   •  Other  purposes  
+Domestic   
+•  Use  of  water  for  domestic  purposes  -  the  utilization  of  water  for   drinking,  washing,  bathing,  cooking  or  other  household  needs,   home  gardens,  and  watering  of  lawns  or  domestic  animals.  
+ 
+
+Municipal   
+•  Use  of  water  for  municipal  purposes  -  the  utilization  of  water  for   supplying  the  water  requirements  of  the  community.   
+ 
+
+Industrial   
+•  Use  of  water  for  industrial  purposes  -  the  utilization  of  water  in   factories,  industrial  plants  and  mines,  including  the  use  of  water   as  an  ingredient  of  a  finished  product.  
+ 
+
+Power  Generation   
+•  Use  of  water  for  power  generation  -  the  utilization  of  water  for   producing  electrical  or  mechanical  power.   
+ 
+
+Irrigation   
+•  Use  of  water  for  irrigation  -  the  utilization  of  water  for  producing   agricultural  crops.  
+ 
+
+Fisheries   
+•  Use  of  water  for  fisheries  -  the  utilization  of  water  for  the   propagation  and  culture  of  fish  as  a  commercial  enterprise.  
+ 
+
+Livestock  Raising   
+•  Use  of  water  for  livestock  raising  -  the  utilization  of  water  for   large  herds  or  flocks  of  animals  raised  as  a  commercial   enterprise.   
+ 
+
+Recreational   
+•  Use  of  water  for  recreational  purposes  -  the  utilization  of  water   for  swimming  pools,  bath  houses,  boating,  water  skiing,  golf   courses  and  other  similar  facilities  in  resorts  and  other  places  of   recreation.   
+
+ 
+Water  Consumption   
+ Worldwide,  agriculture  accounts  for  70%  of  all  water  consumption,  compared  to  20%  for   industry  and  10%  for  domestic  use  
+Water  Quality  
+Water  Quality   
+•  Physical  Characteristics   •  Turbidity,  Temperature,  Color,  taste,  and  odor  •  Chemical  Characteristics   •  Biological  Characteristics  
+Turbidity   
+•  When  small  particles  are  suspended   in  water,  they  tend  to  scatter  and   absorb  light  rays.  This  gives  the   water  a  murky  or  turbid  
+appearance,   and  this  effect  is  called  turbidity.   •  Turbidity  is  a  measure  of  the  light  
+transmitting
+ 
+properties
+ 
+of
+ 
+water
+ 
+and
+ 
+is
+ 
+  comprised  of  suspended  and    colloidal  material.  It  is  important   parameter  of  drinking  water  quality   for  health  and  aesthetic  reasons.  
+Turbidity   
+•  Turbidity  is  measured  in  units  that  relate   the  clarity  of  water  sample  to  that  of  a   standardized  suspension  of  
+silica.    •  The  interference  in  the  passage  of  light   caused  by  a  suspension  of  1  mg/L  of   silica  is  equivalent  to  one  turbidity  unit   or  NTU  (Nephelometric  Turbidity   Units)   •  The  instrument  used  for  measuring  it  is   called  Nephelometer  or  Turbidimeter.  
+Turbidity   
+
+Color   
+•  Color  may  be  caused  by  dissolved  or  suspended  colloidal   particles  primarily  from  decaying  leaves  or  microscopic  plants.   •  Colored  water  give  the  appearance  of  being  unfit  to  drink,  even   though  the  water  may  be  perfectly  safe  for  public  use.   
+•  True  Color  &  Apparent  Color  
+Temperature   
+Water  temperature  is  one  of  the  most   important  characteristics  of  an  aquatic   system,  affecting:   •  Dissolved  oxygen  levels .  The   solubility  of  oxygen  decreases  as   water  temperature  increases.   •  Chemical  processes .  Temperature   affects  the  solubility  and  reaction   rates  of  chemicals.  In  general,  the   rate  of  chemical  reactions  increases   with  increasing  water  temperature.  
+Temperature   
+Water  temperature  is  one  of  the  most   important  characteristics  of  an  aquatic   system,  affecting:   •  Biological  processes .  Temperature   affects  metabolism,  growth,  and   reproduction.   •  Species  composition  of  the   aquatic  ecosystem .  Many  aquatic   species  can  survive  only  within  a   limited  temperature  range.  
+Odor  and  Taste   
+•  Hydrogen  sulfide,  H
+2
+S,  is  a  common   cause  of  odor  in  water  supplies.  The   rotten-egg  smell  of  this  gas  may  be   encountered  in  water  that  has  been  in   contact  with  naturally  occurring  deposit   of  decaying  organic  matter.   •  Water  tastes  bitter  when  contaminated   with  alkaline  impurities  and  salty  when   the  impurities  are  metallic  salts.   •  Taste  and  odor  are  human  perceptions  of   water  quality.  
+Water  Quality   
+•  Physical  Characteristics   •  Chemical  Characteristics   •  Dissolved  Oxygen,  Biochemical  Oxygen  Demand,  Solids,  Acidity,   Alkalinity,  and  pH   •  Biological  Characteristics  
+Dissolved  Oxygen    
+•  Dissolved  oxygen  refers  to  the   amount  of  oxygen  present  in    water  needed  by  aquatic    organism  to  survive.  The  higher   the  concentration  of  dissolved    
+oxygen  is,  the  better  the  water    quality.   •  DO  has  no  direct  effect  on    public  health.  But,  drinking    water  with  very  little  or  no    oxygen  tastes  flat.  
+Biochemical  Oxygen  Demand   
+•  Bacterial  and  other  microorganisms  use  organic   substance  for  food.  As  they  metabolize  organic   materials,  they  consume  oxygen.  The  organic    are  broken  down  into  simple  compounds.   •  The  BOD  is  used  as  an  indirect  measure  of  the   
+total  amount  of  biodegradable  organics  in  water.    •  The  more  organic  material  there  is  in  water,  the   higher  the  BOD  exerted  by  the  microbes  will  be.  
+Solids   
+•  Solids  occur  in  water  either  in   solution  or  in  suspension.  These   two  types  of  solids  are    distinguished  by  passing  the   water  through  a  glass-fiber  filter.  •  Suspended  solids  are  retained  on   top  of  the  filter    •  Dissolved  solids  pass  through  the   filter  with  the  water.  
+pH   
+•  pH  is  a  measure  of  the  intensity  of  the  acidity  or   the  alkalinity.  The  primary  reason  for  measuring   the  pH  of  water  is  to  able  to  control  the  water   treatment  process  in  the  water  purification   facility.    •  Alkalinity  is  defined  as  the  capacity  of  natural   water  to  neutralize  acid  added  to  it.  Total   alkalinity  is  the  amount  of  acid  required  to  reach   a  specific  pH.   •  Acidity  is  the  "quantitative  capacity  of  aqueous   media  to  react  with  hydroxyl  ions".  Acidity   indicates  the  corrosiveness  
+of  acidic  water  on   steel,  concrete  and  other  materials.  
+Water  Quality   
+•  Physical  Characteristics   •  Chemical  Characteristics   •  Biological  Characteristics   •  The  presence  or  absence  of  living  organisms  in  water  
+Biological  Characteristics   
+Five  Types  of  Parasitic  Organisms   1.  Bacteria   
+•  Aerobic  bacteria   •  Anaerobic  bacteria   •  Facultative  bacteria   2.  Protozoa   3.  Viruses   4.  Worms   5.  Fungi  
+Water  Pollution  Water  Pollution   
+•  Natural  causes:    •  volcanic  eruptions   
+•  algal  blooms   •  storms   •  earthquakes   
+Sources  of  Water  Pollutants   
+•  Point  sources  -  harmful  substances  are  emitted  directly  into  a   body  of  water    •  Inadequately  treated  domestic  wastewater  or  sewage,  agricultural   wastewater,  industrial  wastewater   •  Example:  A  pipe  dumping  factory  waste  into  a  nearby  river  •  Non-point  sources  -  relatively  scattered  or  diffused,  having  no   specific  location   •  Rain-  and  groundwater  runoff  from  solid  waste  or  garbage  deposits,   which  is  also  known  as  leachate.   
+•  Example:  Agricultural  runoff  which  carries  fertilizers  and  pesticides  
+Types  of  Water  Pollutants   
+•  Sediments  -  tiny  bits  of  soil,  rocks  or  other  solid  particles  that   are  washed  or  blown  from  land  into  the  water.   •  Infectious  agents  –  water  polluted  by  pathogenic  bacteria,   viruses  and  protozoan    •  Diseases  transmitted  via  water  include  viral  hepatitis,  polio  (viral),   typhoid  fever  (bacterial),  amoebic  dysentery  (protozoan),  cholera   (bacterial),  schistosomiasis  (parasitic  worm)  and  salmonellosis   (bacterial)  
+Types  of  Water  Pollutants   
+•  Organic  chemicals  -  include  solvents,    pesticides  and  organic  fertilizers   •  Inorganic  chemicals  –  include  metals,    acids  and  salts  (ex.  Arsenic,  mercury,  lead,   cadmium,  copper,  iron  and  zinc;  toxic    metals  such  as  mercury  and  lead)   •  Radioactive  materials  –  examples  include  radioactive  radium  and  uranium  which  can   found  in  small  amounts  in  almost  all  rock    and  soil,  and  can  dissolve  in  water.   
+Primary  Causes  of  Water   
+Pollution   
+•  Industrial  Wastes   •  Oil  Spill   •  Sewage  and  Waste  Water   •  Lake,  Ocean,  and  Marine  Dumping   •  Underground  Storage  and  Leakages  •  Pesticides  and  Fertilizers   •  Leaking  Landfills   •  Animal  Waste  
+Effects  of  Water  Pollution   
+•  Eutrophication  -  accumulation  of    nutrients  in  lakes  that  results  to  algal    blooms   •  Increased  organic  wastes  increase    biochemical  oxygen  demand.  This    reduces  the  oxygen  available  for    oxygen  dependent  aquatic  lifeforms.  
+Effects  of  Water  Pollution   
+•  Sedimentation  or  deposition  of    
+sediment  in  surface  waters.    •  Sediments  destroy  spawning  and    breeding  grounds  for  fish,  smoother    fish  eggs  and  fry  and  thus  reduces    fish  and  shellfish  populations.    •  Suspended  sediments  decrease  light    penetration  in  water  bodies,  which    may  impair  the  growth  of  aquatic    plants  
+Effects  of  Water  Pollution   
+•  Thermal  pollution  -  lowers  the  dissolved   oxygen  content  of  water  at  the  same  time   
+increasing  the  metabolic  rate  of  aquatic    organisms   •  It  can  cause  thermal  shock,  which  is  the   sudden  death  of  fish  and  other  organisms   that  cannot  escape  in  cooler  neighboring    waters   •  It  can  also  increase  the  susceptibility  of    aquatic  organisms  to  parasites,  certain  toxic   substances  and  pathogens   
+Laws  Related  to  Water   Resources  Philippine  National  Standards  For   
+Drinking  Water   
+•  The  Philippine  National  Standards  for  Drinking  Water  (PNSDW)   is  a  set  of  guidelines  and  requirements  established  by  the   Department  of  Health  (DOH)  to  ensure  the  quality  and  safety  of   drinking  water  in  the  Philippines  (1963).    •  The  PNSDW  covers  all  aspects  of  drinking  water  management,   from  the  source  of  water  to  its  distribution  and  consumption.    •  It  sets  standards  for  physical,  chemical,  and  microbiological   parameters  that  must  be  met  by  drinking  water  providers  to   ensure  that  the  water  is  safe  for  human  consumption.  
+DENR  A.O.  34  series  of  1990   
+•  Entitled  the  “Water  Usage  and  Classification/Water  Quality   Criteria  and  Standards."   •  This  policy  establishes  guidelines  for  the  classification  and   management  of  Philippine  waters  based  on  their  designated   use.    •  It  sets  water  quality  criteria  and  standards  for  various  beneficial   uses,  including  domestic,  agricultural,  and  industrial  purposes,   and  provides  measures  for  the  prevention,  control,  and   abatement  of  water  pollution.   
+DENR  A.O.  34  series  of  1990   
+Freshwater   •  Class  AA  –  Public  Water  Supply  Class  I   •  Class  A  –  Public  Water  Supply  Class  II   •  Class  B  –  Recreational  Water  Class  I   •  Class  C  –  Fisheries,  Recreational  Class  II,  Industrial  Class  I  •  Class  D  –  Agricultural,  Industrial  Class  II  
+DENR  A.O.  34  series  of  1990   
+Coastal  and  Marine  Waters   •  Class  SA  –  Commercial  shellfishes,  protected  parks  and  
+areas  •  Class  SB  –  Recreational  Water  Class  I,  Fishery  Water  Class  I   •  Class  SC  –  Recreational  Water  Class  II,  Fishery  Water  Class  II,   Sanctuaries   •  Class  SD  –  Industrial  Water  Supply  Class  II   
+Philippine  Clean  Water  Act  of   2004   
+•  Republic  Act  (R.A.)  No.  9275:  An  act  providing  for  a   comprehensive  water  quality  management  and  for  other   purposes.   •  Signed  by  former  President  Gloria  Arroyo  on  March  22,  2004   and  took  effect  on  May  6,  2004.   •  Aims  to  protect  the  country’s  water  bodies  from  pollution  from   
+land-based  sources  (industries  and  commercial  establishments,   agriculture  and  community/household  activities).    •  It  provides  for  a  comprehensive  and  integrated  strategy  to   prevent  and  minimize  pollution  through  a  multi-sectoral  and   participatory  approach  involving  all  the  stakeholders.  
+Other  related  laws   
+•  Revised  Water  Usage  And  Classification/Water  Quality  Criteria   Amending  Section  No.  68  And  69,  Chapter  III  Of  The  1978   NPCC  Rules  And  Regulations    •  Revised  Effluent  Regulations  Of  1990,  Revising  And  Amending   The  Effluent  Regulations  Of  1982  
+Assignment   
+•  Report  comparing  the  Philippine  Clean  Water  Act  of  2004,   PNSDW,  and  DENR  AO  34  s.  1990.    •  Emphasis  on  the  function  and  standards.   •  A4,  Arial  11,  at  most  3  pages.   •  Submission  on  May  18,  2023.  
+References   
+•  Cero,  DL  and  Cero,  LL.  Learning  Guide  in  Environmental   Science.  Cavite  State  University   •  Linsley,  R.K.  And  J.B.  Franzini.  1979.  Water-resources   Engineering.  Mcgraw-hill  Kogakusha,  Ltd.   
+•  McGhee,  T.J.  1991.  Water  Supply  And  Sewerage.  Mcgraw-hill,   Inc.  
+
+============================================================
+ENGS 32 - Lec 5.3 - Air Pollution.pdf
+============================================================
+ENGS  32  –   Environmental   
+Concerns
+ 
+and
+  
+Crises
+ 
+ 
+Lecture  5.3   
+Air  Pollution   
+Al  Owen  Roy  A  Ferrera    Department  of  Agricultural  &  Food  Engineering   College  of  Engineering  &  Information  
+Technology
+ 
+Cavite
+ 
+State
+ 
+University
+ 
+ Indang,  Cavite  
+The  Earth’s  Atmosphere   
+•The  atmosphere  
+is
+ 
+an
+  
+ envelop  of  gases    surrounding  the  
+earth
+  
+ and  bound  to  it    permanently  by    gravitational  
+force
+ 
+ •It  is  composed  of    clean  dry  air,  water    
+
+vapor  and  impurities  
+Composition  of  clean  dry  air   
+Component  %   Nitrogen  78.08   Oxygen  20.95   Argon  0.93   Carbon  Dioxide  0.03   Neon  1.8  x  10
+ -3
+ 
+ 
+Helium  5  x  10-4   Krypton  1  x  10-4   Xenon  1  x  10-5   Ozone  variable,  ≈  10
+ -6
+ 
+ 
+Radon  6  x  10
+ -8
+ 
+ 
+Hydrogen  <  1  x  10
+ -3  
+Water  vapor   
+•  changes  phase  easily  because  critical  pressure  and   
+temperature
+ 
+are
+ 
+above
+ 
+atmospheric
+ 
+ranges)
+ 
+ •0  –  4%  by  volume   •agent  or  medium  of  heat  transfer  in  the  atmosphere  •polar  
+regions
+ 
+have
+ 
+lesser
+ 
+distribution
+ 
+compared
+ 
+to
+ 
+the
+ 
+equatorial
+  
+regions
+ 
+Layers  of  the  atmosphere  
+•troposphere  –  
+phenomenon
+ 
+of
+  
+ weather  and  climate  
+occurs
+  
+ here;    (up  to  10  –  18  km)   •  stratosphere  –  up  to  50  
+km
+ 
+ •mesosphere    •thermosphere   •exosphere   
+
+ 
+Air  Pollution   
+
+•Air  pollution  kills  an  estimated  seven  million  people  worldwide   
+every
+ 
+year.
+ 
+ •Air  pollution  is  the  presence  of  toxic  chemicals  or  compounds   
+(including
+ 
+those
+ 
+of
+ 
+biological
+ 
+origin)
+ 
+in
+ 
+the
+ 
+air,
+ 
+at
+ 
+levels
+ 
+that
+ 
+pose
+  
+a
+ 
+health
+ 
+risk.
+ 
+ •Any  alteration  of  the  physical,  chemical  and  biological  properties   
+of
+ 
+the
+ 
+atmosphere,
+ 
+or
+ 
+any
+ 
+discharge
+ 
+thereto
+ 
+of
+ 
+any
+ 
+liquid,
+  
+gaseous
+ 
+or
+ 
+solid
+ 
+substances
+ 
+which
+ 
+will
+ 
+adversely
+ 
+affect
+ 
+their
+  
+utilization
+ 
+for
+ 
+domestic,
+ 
+commercial,
+ 
+industrial,
+ 
+agricultural,
+  
+recreational,
+ 
+or
+ 
+other
+ 
+legitimate
+ 
+purposes.
+ 
+Asian  countries  with  most  polluted  air
+ 
+
+Most  polluted  cities  by  particulate  matter   
+concentration
+ 
+(2016)
+ 
+ 
+1.  Kanpur,  India  2.  Faridabad,  India  3.  Gaya,  India   4.  Varanasi,  India  5.  Patna,  India  6.  New  Delhi,  India   
+7.  Lucknow,  India   8.  Bameda,  Cameroon  9.  Agra,  India   10.Gurgaon,  India   242.  NIA  Road,  Philippines   
+Reference:  WHO  Global  Ambient  Air  Quality  Database  
+
+World's  Most  Polluted  Countries  in  2025  -  PM2.5  Ranking  |  IQAir  
+Countries  with  cleaner  air:
+ 
+
+Air  Pollution  in  2020   
+•  The  implementation  of  lockdown  measures  around  the  world  reduced   
+industrial
+ 
+activities
+ 
+and
+ 
+restricted
+ 
+transportation,
+ 
+therefore
+ 
+leading
+ 
+to
+  
+decreased
+ 
+emissions
+ 
+of
+ 
+pollutants.
+ 
+ •  The  improved  air  quality  was  evident  in  major  cities  like  Metro  Manila,   
+where
+ 
+decreased
+ 
+vehicular
+ 
+traffic
+ 
+and
+ 
+industrial
+ 
+emissions
+ 
+resulted
+ 
+in
+  
+lower
+ 
+levels
+ 
+of
+ 
+pollutants
+ 
+such
+ 
+as
+ 
+nitrogen
+ 
+dioxide
+ 
+(NO
+2
+)
+ 
+and
+  
+particulate
+ 
+matter
+ 
+(PM2.5).
+  
+ •It  was  also  noted  that  a  lot  of  pollutants  from  burning  biomass  in   
+Central
+ 
+Luzon
+ 
+and
+ 
+Cagayan
+ 
+Valley
+ 
+was
+ 
+lowered
+ 
+during
+ 
+the
+ 
+lockdown.
+ 
+•
+ 
+However,
+ 
+this
+ 
+decrease
+ 
+was
+ 
+only
+ 
+temporary
+ 
+and
+ 
+as
+ 
+the
+ 
+lockdown
+  
+measures  ease,  pollution  went  back  to  pre-pandemic  levels.  Source:  UP  Diliman  Information  Office  Source:  Nathaniel  Adam  
+Cruz
+  
+@risingphilippines
+ Source:  Johair  Siscar  Addang  (Pasig)  
+Major  Groups  of  Air  Pollutants  Major  groups  of  air  pollutants:   
+1.  Oxides  of  nitrogen  –  nitrogen  dioxide  (NO
+2
+),  nitric  oxide  
+(NO)
+ 
+•
+ 
+Produced
+ 
+from
+ 
+burning
+ 
+of
+ 
+fossil
+ 
+fuels
+ 
+in
+ 
+vehicles,
+ 
+power
+ 
+plants
+ 
+and
+  
+factories
+ 
+ •  Accounts  for  the  brownish  color  of  smog   •  Aggravate  asthma,  bronchitis,  pneumonia,  chest  colds  and  
+coughing
+ 
+•
+ 
+NO
+2
+ 
+is
+ 
+known
+ 
+to
+ 
+cause
+ 
+heart,
+ 
+lung,
+ 
+kidney
+ 
+and
+ 
+liver
+ 
+damage  
+ 
+Major  groups  of  air  pollutants:   
+2.  Oxides  of  sulfur  –  sulfur  dioxide  
+(SO
+2
+),
+  
+sulfur
+ 
+trioxide
+ 
+(SO
+3
+)
+ 
+ -  Emitted  by  furnaces  and  boilers  such  as  
+in
+  
+power
+ 
+plants,
+ 
+petroleum
+ 
+refineries,
+ 
+
+smelters,   paper  mills,  chemical  plants  and  
+vehicles
+ 
+ -  At  low  concentration  it  is  colorless  and  odorless   
+gas
+ 
+ -  Aggravate  bronchitis,  asthma  and  emphysema;   
+ranked
+ 
+second
+ 
+to
+ 
+smoking
+ 
+in
+ 
+causing
+ 
+respiratory
+  
+damage
+ 
+ -  Can  corrode  metals,  injure  plants  and  impair   
+visibility
+ 
+by
+ 
+as
+ 
+much
+ 
+80%
+ 
+Major  groups  of  air  pollutants:   
+3.  Suspended  particles  –  solid  particles  or  liquid  droplets  -  dust,  
+soot,
+ 
+fly
+ 
+ash,
+ 
+smoke,
+ 
+vapors,
+ 
+aerosols,
+ 
+trace
+ 
+metals,
+  
+asbestos,
+ 
+fertilizers  and  pesticides,  pores,  pollens  etc.  
+ 
+Suspended  particles   
+
+•Closely  linked  to  heart  and  circulatory  diseases  (cardiovascular   
+diseases)
+ 
+ •Benzene,  arsenic  and  asbestos  are  highly  toxic  –  cancers,  birth   
+defects,
+ 
+reproductive
+ 
+and
+ 
+respiratory
+ 
+malfunctions
+ 
+•Lead
+ 
+(paint
+ 
+and
+ 
+gasoline)
+ 
+–
+ 
+soil
+ 
+contamination;
+ 
+highly
+ 
+toxic
+ 
+to
+  
+humans
+ 
+and
+ 
+causes
+ 
+mental
+ 
+retardation,
+ 
+convulsions
+ 
+and
+  
+hallucinations,
+ 
+disrupt
+ 
+kidney
+ 
+and
+ 
+blood
+ 
+functions.
+ 
+The  Air  Quality  Index  AQI   
+•Air  Quality  Index  (AQI)  -  index  for  reporting  daily  air  quality  •An  
+AQI
+ 
+value
+ 
+of
+ 
+100
+ 
+generally
+ 
+corresponds
+ 
+to
+ 
+the
+ 
+national
+ 
+air
+  
+quality
+ 
+standard
+ 
+for
+ 
+the
+ 
+pollutant,
+ 
+which
+ 
+is
+ 
+the
+ 
+level
+ 
+EPA
+ 
+has
+ 
+set
+  
+to
+ 
+protect
+ 
+public
+ 
+health.
+ 
+ 
+  
+Air  Quality  Index  Levels  of  Health  Concern  
+Numerical   Value   
+Meaning  
+Good   0  to  50   Air  quality  is  considered  satisfactory,  and  air  pollution  poses  little  or  no  risk.  
+
+Moderate   51  to  100  Air  quality  is  acceptable;  however,  for  some   pollutants  there  may  be  a  moderate  health   concern  for  a  very  small  number  of  people   who  are  unusually  sensitive  to  air  pollution.  Unhealthy  for    Sensitive  Groups   
+101  to  150  Members  of  sensitive  groups  may   experience  health  effects.  The  general   public  is  not  likely  to  be  affected.   Unhealthy   151  to  200  Everyone  may  begin  to  experience  health   effects;  members  of  sensitive  groups  may   experience  more  serious  health  effects.  Very  Unhealthy   201  to  300   Health  alert:  everyone  may  experience   more  serious  health  effects.  
+Hazardous   301  to  500  Health  warnings  of  emergency  conditions.   The  entire  population  is  more  likely  to  be   affected.    
+f   
+https://waqi.info/  
+
+Effects  of  Air  Pollution  Greehouse  gases  (GHGs)   
+•Carbon  dioxide   •Carbon  monoxide   •Methane   •Nitrous  oxide   
+Greenhouse  effect  -  occurs  when  certain  gases  in  a  planet’s   
+atmosphere
+ 
+traps
+ 
+infrared
+ 
+radiation
+ 
+ This  further  leads  to  global  warming  and  climate  change.  
+Greenhouse  Effect  
+ 
+
+Acid  rain   
+•Produced  when    compounds  like  sulfur   
+dioxide,
+ 
+nitrogen
+ 
+oxides,
+  
+traces
+ 
+of
+ 
+mercury
+ 
+and
+  
+cadmium
+ 
+mix
+ 
+with
+ 
+water
+  
+vapor
+ 
+in
+ 
+the
+ 
+atmosphere
+  
+and
+ 
+form
+ 
+sulfuric
+ 
+acid
+ 
+or
+  
+nitric
+ 
+acid
+ 
+
+Acid  rain   
+•Rain  is  normally  slightly  acidic  (pH=5.6);  acid  rain  (pH  =  2.0)  
+•Acid
+ 
+rain
+ 
+falls
+ 
+into
+ 
+the
+ 
+ground
+ 
+as
+ 
+rain,
+ 
+snow,
+ 
+fog,
+ 
+hail
+ 
+or
+ 
+dust
+ 
+or
+  
+gas
+ 
+and
+ 
+can
+ 
+corrode
+ 
+masonry
+ 
+and
+ 
+metals,
+ 
+and
+ 
+stunt
+ 
+or
+ 
+kill
+  
+plants
+ 
+and
+ 
+animals.
+ 
+ •Destroys  forests  by  leaching  away  soil  nutrients  (Ca,  K,  Al)  
+•Kills
+ 
+fishes
+ 
+and
+ 
+other
+ 
+aquatic
+ 
+organisms
+ 
+(lake
+ 
+acidification)
+ 
+Smog   
+•Urban  signboard  of  pollution   
+•Derived  from  combination  of  smoke  and  fog ;  the  unsightly  pall  of   
+brownish
+ 
+to
+ 
+black
+ 
+haze
+ 
+that
+ 
+hangs
+ 
+in
+ 
+the
+ 
+horizon
+ 
+of
+ 
+polluted
+  
+cities
+ 
+ •Photochemical  smog  –  chemical  reactions  in  the  presence  of    sunlight  
+ 
+Smog  
+
+
+
+Components  of  Smog   
+•Tropospheric  ozone   •Nitric  acid   •Formaldehyde   •Peroxyacyl  nitrate  (PAN)   
+•Impacts  -  Eye  irritation,  Serious  respiratory  problems,  Memory   
+loss
+ 
+Indoor  Air  Pollution  Indoor  Air  Pollution   
+•Air  within  home,  offices,  buildings  can  be  more  seriously  polluted   
+than
+ 
+outdoor
+ 
+air!
+ 
+ •Major  indoor  air  pollutants:   •  Asbestos   •  Formaldehyde  (consumer  products  incl.  wood  products  &  aerosols)   •  Airborne  pesticide  residue   •  Chloroform   •  Perchloroethylene  (dry  cleaning)   •  Paradichlorobenzene  (moth  balls  and  air  fresheners)   •  Disease-causing  organisms   •  Cigarette  smoke  
+Asbestos   
+•Light  fibrous  mineral;  fireproof  and  insulative  
+•
+ 
+Ceilings
+ 
+and
+ 
+floor
+ 
+tiles
+ 
+and
+ 
+packing
+ 
+compounds
+ 
+ •  Easily  inhaled  to  cause  lung  damage  and  cancer  
+ 
+Carbon  monoxide   
+•Odorless,  colorless  gas    •Combustion  sources  such  as  charcoal,  kerosene  heaters,   
+attached
+ 
+garages
+ 
+with
+ 
+poor
+ 
+ventilation;
+ 
+tobacco
+ 
+smoke
+ 
+•Reduces
+ 
+ability
+ 
+of
+ 
+blood
+ 
+to
+ 
+carry
+ 
+oxygen;
+ 
+impairs
+ 
+vision
+ 
+and
+  
+alertness;
+ 
+dizziness,
+ 
+headaches,
+ 
+fatigue,
+ 
+death
+ 
+by
+ 
+suffocation
+ 
+ 
+Formaldehyde   
+•Pungent  gas;  preservative  
+and
+  
+disinfectant
+ 
+ •Foam  insulation,  resin  in   
+particleboards,  plywood    paneling,  fiberboard,  some   
+carpets,
+ 
+drapery
+ 
+and
+ 
+upholstery
+  
+fabrics
+ 
+ •Headaches,  dizziness,  nausea,   
+lethargy,
+ 
+rashes,
+ 
+upper
+  
+ respiratory  irritations  
+Lead  ( Pb )   
+•Metallic  element   •House  paints,  old  plumbing  lines   
+and
+ 
+solder,
+ 
+leaded
+ 
+crystal
+ 
+and
+  
+pottery,  old  toys   •Learning  and  behavior  problems   
+in
+ 
+children,
+ 
+high
+ 
+blood
+ 
+pressure,
+  
+joint
+ 
+pain,
+ 
+concentration
+ 
+problems,
+  
+reproductive
+ 
+problems
+ 
+Biological  pollutants  and   
+microorganisms
+ 
+ 
+•Pollen,  dust  mites,  pet  dander,    bacteria,  molds,  fungi  and  viruses   •Improperly  maintained  heating  
+and
+  
+cooling
+ 
+systems;
+ 
+washroom,
+  
+ 
+humidifiers/  dehumidifiers;  pest  &    plants;  wall-to-wall  carpeting   •Allergic  diseases  and  skin  
+irritation,
+  
+influenza
+ 
+and
+ 
+legionnaire’s
+ 
+disease,
+  
+asthma
+ 
+Nitrogen  dioxide   
+•Brownish  gas   •Gas  appliances,  fireplaces,  
+wood
+  
+and
+ 
+coal
+ 
+stoves
+ 
+ •Eye  and  respiratory  tract   
+irritations;  lower  resistance  to   
+respiratory
+ 
+infection;
+ 
+chronic
+  
+bronchitis
+ 
+Radon  (Rn)   
+•Naturally  occurring,    radioactive  gas   •Rocks  and  soils  that    contain  the  decaying    radioactive  elements  
+of
+  
+uranium
+ 
+and
+ 
+radium;
+ 
+enters
+  
+through  cracks  in    foundation  and  basements  
+Tobacco  smoke   
+•Mixture  of  several  substances  including  known  human   
+carcinogens.
+ 
+ •Known  to  cause  lung  cancer,  heart  disease,  chronic  obstructive   
+pulmonary
+ 
+disease
+ 
+(COPD),
+ 
+emphysema,
+ 
+and
+ 
+other
+ 
+serious
+  
+diseases
+ 
+in
+ 
+smokers
+ 
+and
+ 
+in
+ 
+non-smokers
+ 
+as
+ 
+well.
+ 
+ 
+Volatile  organic  compounds  (VOCs)   
+•Substances  produced  by  synthetic  
+chemical
+  
+ industry;  vaporize  at  room  temperature  eg   
+benzene,  formaldehyde,  acetone,  toluene,    and  xylene   •Paints,  paint  strippers  and  other  solvents,    wood  preservatives,  aerosol  sprays,  cleansers   
+and
+ 
+disinfectants,
+ 
+moth
+ 
+repellents
+ 
+and
+ 
+air
+  
+ fresheners,  stored  fuels  and  automotive    products,  pesticide   •ENT  irritation,  headache,  allergies,  live,  kidney   
+and
+ 
+central
+ 
+nervous
+ 
+system
+ 
+damage
+ 
+References   
+•  Cero,  DL  and  Cero  LL.  Learning  Guide  in  Environmental  Science.  Cavite  State   
+University.   •  Air  Quality  post-ECQ:  the  ‘new  normal’  -  University  of  the  Philippines  Diliman   
+(upd.edu.ph)
+ 

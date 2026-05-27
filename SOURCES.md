@@ -1,11 +1,14 @@
 # Verified external sources (answer key)
 
-This reviewer ties each item to **course PDFs** (CvSU ENGS 32 Lec 5.4, 5.5, 6, 7) plus **primary or authoritative external** references where applicable.
+This reviewer ties each item to **course PDFs** (CvSU ENGS 32 Lec **5.2**, **5.3**, 5.4, 5.5, 6, 7) plus **primary or authoritative external** references where applicable.
 
 The **Key concepts** block at the top of each LO in `index.html` is a **structured synopsis** of those same lecture modules (aligned with `questions.js`). It is not a byte-for-byte copy of the PDFs—use your official slide files for exact wording, tables, and graphics.
 
 | Topic | External check | Notes |
 | --- | --- | --- |
+| **Lec 5.2 Water** | Course PDF `ENGS 32 - Lec 5.2 - Water Pollution.pdf` | BOD/DO, point vs non-point sources, PNSDW, DENR AO 34 classes, RA 9275 (2004). |
+| **Lec 5.3 Air** | Course PDF `ENGS 32 - Lec 5.3 - Air Pollution.pdf` | NOx/SO₂/PM, photochemical smog, AQI bands, acid rain, indoor air, WHO PM rankings. |
+| **RA 9275** (Clean Water) | [Official Gazette — RA 9275](https://www.officialgazette.gov.ph/2004/03/22/ra-no-9275/) | Signed 22 Mar 2004; effective 6 May 2004 per lecture. |
 | **RA 9003** short title & Sec. 2 policies | [Lawphil — Republic Act No. 9003](https://lawphil.net/statutes/repacts/ra2001/ra_9003_2001.html) | Header: approved **26 January 2001**; Sec. 1 short title *Ecological Solid Waste Management Act of 2000*; Sec. 2 lists health/environment protection and ecological SWM. |
 | **PD 1586** (PEISS) | [Lawphil — PD 1586](https://lawphil.net/statutes/presdecs/pd1978/pd_1586_1978.html) | Philippine Environmental Impact Statement System; **11 June 1978**. |
 | **Paris Agreement** temperature goal | [UNFCCC Paris Agreement text](https://unfccc.int/process-and-meetings/the-paris-agreement) | Art. 2 long-term goals include holding increase well below 2°C and pursuing 1.5°C. |

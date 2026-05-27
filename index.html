@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, minimum-scale=1.0">
 <!-- Intended production URL (project Pages): https://joshuagutierrez369.github.io/engs32-env-review/ -->
 <title>ENGS 32 — Environmental Science Review &amp; Quiz</title>
-<meta name="description" content="CvSU ENGS 32 reviewer and quiz — solid waste, climate, EIA, sustainability (LO7–LO13), with cited explanations">
+<meta name="description" content="CvSU ENGS 32 reviewer and quiz — water &amp; air pollution (Lec 5.2–5.3), solid waste, climate, EIA, sustainability, with cited explanations">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -207,12 +207,13 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
   </header>
   <div class="main-content" id="main-content">
     <div id="st">
-      <div class="stat"><div class="sn" id="st-lo">LO7–13</div><div class="sl">Learning outcomes</div></div>
+      <div class="stat"><div class="sn" id="st-lo">—</div><div class="sl">Topics (Lec 5.2–5.3 + LO7–13)</div></div>
       <div class="stat"><div class="sn" id="st-mcq">—</div><div class="sl">MCQ + TF</div></div>
       <div class="stat"><div class="sn" id="st-essay">—</div><div class="sl">Essay prompts</div></div>
+      <div class="stat"><div class="sn" id="st-bank-ver" style="font-size:11px">—</div><div class="sl">Bank version</div></div>
     </div>
 
-    <p style="margin-bottom:16px;line-height:1.55;color:#555;font-size:13px">Each learning outcome opens with <strong>Key Concepts</strong> drawn from the same CvSU lecturer modules used to draft the quiz (Lec&nbsp;5.4–7). Expand or collapse sections as needed — then drill the MCQ/T‑F items below, each with <strong>Evidence &amp; references</strong>. Prefer statute and UN/IPCC originals when wording differs from your PDFs (<code>SOURCES.md</code>).</p>
+    <p style="margin-bottom:16px;line-height:1.55;color:#555;font-size:13px">Each topic opens with <strong>Key Concepts</strong> from the CvSU lecture modules (Lec&nbsp;5.2 water, 5.3 air, 5.4–7 for LO7–13). <strong>LO5W</strong> and <strong>LO5A</strong> each carry <strong>23</strong> analytical MCQ/T‑F items—the same deck size as LO7. Expand or collapse sections, then drill questions; rationales cite <strong>Evidence &amp; references</strong>. Cross-check statutes and UN/IPCC text against your PDFs (<code>SOURCES.md</code>).</p>
 
     <div id="review-sections"></div>
 
@@ -249,7 +250,7 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
     <div class="setup-box">
       <h3>Settings</h3>
       <div class="setup-row">
-        <div class="setup-field"><label># Questions</label><input type="number" id="qz-num" value="25" min="1"></div>
+        <div class="setup-field"><label># Questions</label><input type="number" id="qz-num" value="25" min="1" title="Capped to bank size on load"></div>
         <div class="setup-field"><label>Seconds/question (0 = no timer)</label><input type="number" id="qz-time" value="0" min="0"></div>
       </div>
     </div>
@@ -290,7 +291,8 @@ body.dark .lo-kc-panel{border-color:#3d5c3f}
   </div>
 </div>
 
-<script src="questions.js"></script>
+<script src="version.js?v=materials-2026-05-27-v5"></script>
+<script src="questions.js?v=materials-2026-05-27-v5"></script>
 <script>
 (function(){
 'use strict';
@@ -319,7 +321,7 @@ function buildToc(){
   ul.innerHTML='';
   var los={};
   QB().forEach(function(q){los[q.lo]=true;});
-  var keys=Object.keys(los).sort();
+  var keys=sortLos(Object.keys(los));
   keys.forEach(function(lo){
     var li=document.createElement('li');
     var sid=anchorId(lo);
@@ -333,7 +335,57 @@ function buildToc(){
 
 function anchorId(lo){return lo.toLowerCase().replace(/\s+/g,'-');}
 
+var LO_DISPLAY_ORDER=['LO5W','LO5A','LO7','LO8','LO9','LO10','LO11','LO12','LO13'];
+function loSortKey(lo){
+  var i=LO_DISPLAY_ORDER.indexOf(lo);
+  return i>=0?String(100+i):lo;
+}
+function sortLos(los){return los.sort(function(a,b){var ka=loSortKey(a),kb=loSortKey(b);return ka<kb?-1:ka>kb?1:0;});}
+
 var KEY_CONCEPTS_BY_LO={
+  LO5W:{
+    subtitle:'Lec 5.2 — Water Pollution (CvSU ENGS 32)',
+    blocks:[
+      {h:'Pollution & water use',items:[
+        'Pollution: undesirable change in physical, chemical, or biological characteristics diminishing resource quality (lecture definition).',
+        'Water Code Art. 10 appropriation purposes: domestic, municipal, irrigation, power, fisheries, livestock, industrial, recreational, and other uses.',
+        'Global use shares taught: ~70% agriculture, ~20% industry, ~10% domestic — verify with current FAO/ADB summaries for reports.'
+      ]},
+      {h:'Quality parameters',items:[
+        'Physical: turbidity (NTU, nephelometry), color, temperature (affects DO solubility and reaction rates), odor/taste (e.g., H₂S rotten-egg cases).',
+        'Chemical: dissolved oxygen, BOD as proxy for biodegradable organics, pH/alkalinity/acidity, suspended vs dissolved solids (filter partition).',
+        'Biological: bacteria (aerobic/anaerobic/facultative), protozoa, viruses, worms, fungi — links to waterborne disease examples (typhoid, cholera, schistosomiasis, etc.).'
+      ]},
+      {h:'Sources, effects, law',items:[
+        'Point sources (pipes, effluent outfalls) vs non-point sources (runoff, leachate from waste deposits).',
+        'Pollutant classes: sediments, infectious agents, organics (pesticides), inorganics (Hg, Pb, etc.), radionuclides.',
+        'Effects: eutrophication, BOD-driven oxygen sag, sedimentation, thermal pollution / thermal shock.',
+        'PNSDW (DOH), DENR AO 34 (1990) water classes (AA–D freshwater; SA–SD marine), RA 9275 Clean Water Act (2004).'
+      ]}
+    ]
+  },
+  LO5A:{
+    subtitle:'Lec 5.3 — Air Pollution (CvSU ENGS 32)',
+    blocks:[
+      {h:'Atmosphere basics',items:[
+        'Clean dry air: ~78% N₂, ~21% O₂, trace Ar, CO₂, etc.; water vapor as heat-transfer agent with latitude-dependent abundance.',
+        'Weather/climate processes concentrate in the troposphere (~10–18 km in slides).',
+        'WHO-scale burden cited: ~7 million premature deaths/year from ambient air pollution (verify current WHO fact sheets).'
+      ]},
+      {h:'Major outdoor pollutants',items:[
+        'NOx (NO₂ brownish smog, respiratory aggravation) and SO₂ (combustion, corrosion, visibility, ranked high for respiratory harm).',
+        'Suspended PM (dust, soot, metals, asbestos, etc.) linked to cardiovascular and respiratory outcomes.',
+        'Photochemical smog: sunlight-driven chemistry; components include tropospheric O₃, HNO₃, formaldehyde, PAN.',
+        'Acid rain: SOx/NOx → sulfuric/nitric acids; damages forests and acidifies surface waters.'
+      ]},
+      {h:'AQI, indoor air, cases',items:[
+        'AQI reporting bands (Good 0–50 through Hazardous 301–500 in lecture table); value 100 ≈ national standard level in US-EPA-style framing shown.',
+        'Lockdown 2020: temporary NO₂/PM₂.₅ drops in Metro Manila with rebound as mobility returned.',
+        'Indoor air can exceed outdoor levels (asbestos, formaldehyde, CO from combustion, tobacco smoke, pesticides, etc.).',
+        'WHO PM database cites Philippine sites (e.g., NIA Road in 2016 ranking slide) — always cite database vintage.'
+      ]}
+    ]
+  },
   LO7:{
     subtitle:'Lec 5.4 Solid waste · Lec 5.5 Climate & environmental crises',
     blocks:[
@@ -486,7 +538,7 @@ function buildReviewer(){
   root.innerHTML='';
   var byLo={};
   QB().forEach(function(q){(byLo[q.lo]=byLo[q.lo]||[]).push(q);});
-  var los=Object.keys(byLo).sort();
+  var los=sortLos(Object.keys(byLo));
   los.forEach(function(lo){
     var sid=anchorId(lo);
     var sec=document.createElement('section');sec.className='ps';sec.id=sid;
@@ -532,13 +584,29 @@ function buildReviewer(){
   countStats();
 }
 
+function syncQzNumCaps(){
+  var qba=QB();
+  var inp=el('qz-num');
+  if(!inp||!qba.length)return;
+  var cap=Math.max(1,qba.length);
+  inp.max=cap;
+  var cur=parseInt(inp.value,10);
+  if(!cur||cur<1)inp.value=Math.min(25,cap);
+  else if(cur>cap)inp.value=cap;
+}
+
 function countStats(){
   var qba=QB();
+  var los={};
+  qba.forEach(function(q){los[q.lo]=true;});
+  el('st-lo').textContent=Object.keys(los).length+' LO topics';
   var mcq=qba.filter(function(q){return q.type==='mcq';}).length;
   var tf=qba.filter(function(q){return q.type==='tf';}).length;
   el('st-mcq').textContent=mcq+' + '+tf+' T/F';
   el('st-essay').textContent=String(ESSAYS().length);
   el('total-qs').textContent=qba.length;
+  if(el('st-bank-ver'))el('st-bank-ver').textContent=window.APP_BANK_VERSION||'legacy';
+  syncQzNumCaps();
 }
 
 function applyFilter(){
@@ -607,7 +675,7 @@ function buildTopicGrid(){
   var grid=el('topic-grid');grid.innerHTML='';
   var counts={};
   QB().forEach(function(q){counts[q.lo]=(counts[q.lo]||0)+1;});
-  Object.keys(counts).sort().forEach(function(lo){
+  sortLos(Object.keys(counts)).forEach(function(lo){
     var item=document.createElement('div');
     item.className='topic-label sel';
     item.dataset.lo=lo;
@@ -781,6 +849,11 @@ document.addEventListener('DOMContentLoaded',function(){
   try{if(localStorage.getItem('engs32_dark')==='1')document.body.classList.add('dark');}catch(e){}
   if(!QB().length){el('review-sections').innerHTML='<p style="color:#b71c1c">Missing questions — ensure <code>questions.js</code> loads on this host.</p>';return;}
   buildToc();buildReviewer();
+  (function(){
+    var qb=QB(),sub=document.querySelector('#quiz-landing .sub');if(!sub||!qb.length)return;
+    var los={};qb.forEach(function(q){los[q.lo]=1;});var nLo=Object.keys(los).length;
+    sub.textContent='Bank loaded: '+qb.length+' MCQ/T‑F items · '+nLo+' learning-outcome topics — same flow as CA3 examiner (offline after first load).';
+  })();
   el('q-filter').addEventListener('input',applyFilter);
   wireHomeModeCards();
   var h=(location.hash||'').toLowerCase();
@@ -791,7 +864,23 @@ document.addEventListener('DOMContentLoaded',function(){
 
 if('serviceWorker' in navigator){
   window.addEventListener('load',function(){
-    navigator.serviceWorker.register('./sw.js').catch(function(){});
+    var BANK_VER=window.APP_BANK_VERSION||'materials-2026-05-27-v5';
+    var swUrl='./sw.js?v='+encodeURIComponent(BANK_VER);
+    var prev=localStorage.getItem('engs32-bank-version');
+    var clearCaches=prev!==BANK_VER;
+    function registerSw(){
+      navigator.serviceWorker.register(swUrl).catch(function(){});
+    }
+    if(!clearCaches){registerSw();return;}
+    localStorage.setItem('engs32-bank-version',BANK_VER);
+    Promise.all([
+      navigator.serviceWorker.getRegistrations().then(function(regs){
+        return Promise.all(regs.map(function(r){return r.unregister();}));
+      }),
+      caches.keys().then(function(keys){
+        return Promise.all(keys.map(function(k){return caches.delete(k);}));
+      })
+    ]).then(registerSw).catch(registerSw);
   });
 }
 })();

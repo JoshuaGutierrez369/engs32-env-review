@@ -1,0 +1,611 @@
+# -*- coding: utf-8 -*-
+"""Lec 5.2 Water & Lec 5.3 Air question banks — 23 unique items each (matches LO7 deck size)."""
+from __future__ import annotations
+
+QUESTIONS_PER_TOPIC = 23
+
+L52 = "CvSU Lec 5.2 — Water Pollution"
+L53 = "CvSU Lec 5.3 — Air Pollution"
+RA9275 = ["RA 9275 — Philippine Clean Water Act (2004)", "https://www.officialgazette.gov.ph/2004/03/22/ra-no-9275/"]
+PNSDW = ["Philippine National Standards for Drinking Water (DOH)"]
+DENR34 = ["DENR Administrative Order No. 34, Series of 1990"]
+WC = ["Philippine Water Code — Article 10 appropriation purposes"]
+WHO = ["WHO Global Ambient Air Quality Database (cited in lecture)"]
+
+
+def _mcq(
+    lo: str,
+    n: int,
+    text: str,
+    opts: tuple[str, str, str, str],
+    ans: str,
+    expl: str,
+    refs: list[str],
+) -> dict:
+    letters = ["a", "b", "c", "d"]
+    ai = letters.index(ans)
+    prefix = "lo5w" if lo == "LO5W" else "lo5a"
+    return {
+        "id": f"{prefix}-{n:02d}",
+        "lo": lo,
+        "level": "Analysis",
+        "type": "mcq",
+        "text": text,
+        "choices": [{"ltr": letters[i], "text": opts[i]} for i in range(4)],
+        "ans": ans,
+        "expl": expl,
+        "refs": refs,
+    }
+
+
+def _tf(lo: str, n: int, text: str, ans: bool, expl: str, refs: list[str]) -> dict:
+    prefix = "lo5w" if lo == "LO5W" else "lo5a"
+    return {
+        "id": f"{prefix}-{n:02d}",
+        "lo": lo,
+        "level": "Analysis",
+        "type": "tf",
+        "text": text,
+        "ans": ans,
+        "expl": expl,
+        "refs": refs,
+    }
+
+
+def water_bank() -> list[dict]:
+    W = "LO5W"
+    return [
+        _mcq(
+            W,
+            1,
+            "Which definition best matches the lecture’s concept of pollution?",
+            (
+                "Undesirable change in physical, chemical, or biological characteristics of an ecosystem diminishing resource quality and utility",
+                "Any increase in rainfall intensity during monsoon seasons only",
+                "Exclusive legal term for solid waste in RA 9003 only",
+                "Natural volcanic ash that always improves soil fertility without trade-offs",
+            ),
+            "a",
+            "Correct (a): slides define pollution as undesirable environmental change reducing resource utility. (b) narrows to weather. (c) mislabels a single statute domain. (d) ignores harm pathways stressed in class.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            2,
+            "Under Water Code Article 10 (as summarized in Lec 5.2), water appropriation purposes include which grouping?",
+            (
+                "Domestic, municipal, irrigation, power generation, fisheries, livestock, industrial, recreational, and other purposes",
+                "Only hydroelectric export to neighboring states without domestic use",
+                "Exclusive bottled-water franchising without agricultural allocation",
+                "Military bases only, excluding irrigation and fisheries",
+            ),
+            "a",
+            "Correct (a): mirrors the enumerated appropriation classes in the lecture list. (b)–(d) omit or misstate the multi-sector appropriation frame.",
+            WC + [L52],
+        ),
+        _mcq(
+            W,
+            3,
+            "Global freshwater use shares cited in the lecture allocate approximately what fractions to agriculture, industry, and domestic uses?",
+            ("70% agriculture · 20% industry · 10% domestic", "10% agriculture · 70% industry · 20% domestic", "33% each sector", "90% domestic · 10% agriculture · 0% industry"),
+            "a",
+            "Correct (a): matches the 70/20/10 pedagogy slide. (b)–(d) invert or flatten the distribution taught in-session.",
+            [L52, "FAO water use summaries (context)"],
+        ),
+        _mcq(
+            W,
+            4,
+            "Turbidity in drinking-water quality monitoring is best described as:",
+            (
+                "Light-scattering by suspended/colloidal material; reported in NTU via nephelometric methods",
+                "Direct count of fecal coliform colonies per 100 mL only",
+                "Measure of dissolved oxygen saturation at 25 °C exclusively",
+                "Mass of lead per liter without optical inference",
+            ),
+            "a",
+            "Correct (a): lecture ties turbidity to silica-standardized NTU and nephelometers. (b) is microbiological. (c) is DO. (d) is a metals metric.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            5,
+            "Dissolved oxygen (DO) in aquatic systems is characterized in the slides as:",
+            (
+                "Oxygen available to aquatic life; higher concentrations generally indicate better quality for ecosystems",
+                "Primary direct cause of cholera outbreaks in all waters",
+                "Identical to biochemical oxygen demand (BOD)",
+                "Unrelated to temperature or biological metabolism",
+            ),
+            "a",
+            "Correct (a): DO supports aquatic organisms; slides note flat taste at very low DO for drinking. (b) overstates disease causation. (c) confuses DO with BOD. (d) ignores temperature coupling taught later.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            6,
+            "Biochemical oxygen demand (BOD) is used in class primarily as:",
+            (
+                "An indirect measure of biodegradable organic matter that microbes oxidize while consuming oxygen",
+                "A direct measure of heavy-metal toxicity in sediments",
+                "The same parameter as nephelometric turbidity",
+                "A radiation dose standard for nuclear effluents only",
+            ),
+            "a",
+            "Correct (a): BOD proxies organics via microbial O₂ demand. (b)–(d) misassign parameters.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            7,
+            "Which pairing distinguishes point from non-point water pollution sources in Lec 5.2?",
+            (
+                "Point: discrete discharge such as a pipe; non-point: diffuse runoff/leachate without a single outlet",
+                "Point: only rainfall; non-point: only volcanic eruptions",
+                "Point: exclusively agricultural; non-point: exclusively industrial stacks",
+                "Both terms describe identical pipe discharges",
+            ),
+            "a",
+            "Correct (a): matches pipe example vs agricultural runoff/leachate framing. (b)–(d) invert or collapse categories.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            8,
+            "Eutrophication, as presented, is chiefly driven by:",
+            (
+                "Nutrient accumulation (e.g., N/P) leading to algal blooms and oxygen stress when organics decompose",
+                "Excess dissolved oxygen from over-aeration alone",
+                "Complete absence of sediments in all lakes",
+                "Thermal cooling of power plants that raises DO indefinitely",
+            ),
+            "a",
+            "Correct (a): nutrient enrichment → blooms → organic loading → BOD/DO impacts. (b)–(d) contradict lecture mechanisms.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            9,
+            "Suspended sediments in surface waters can harm aquatic systems by:",
+            (
+                "Reducing light penetration, smothering spawning habitat, and damaging eggs/fry",
+                "Increasing photosynthesis at all depths uniformly",
+                "Eliminating need for turbidity measurement",
+                "Guaranteeing higher dissolved oxygen through shading alone",
+            ),
+            "a",
+            "Correct (a): sedimentation effects in slides include spawning damage and light limits. (b)–(d) misstate impacts.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            10,
+            "Thermal pollution to receiving waters is described as:",
+            (
+                "Raising temperature, lowering DO solubility, and increasing metabolic rates—risking shock or stress in organisms",
+                "Always beneficial because heat eliminates all pathogens instantly",
+                "Unrelated to dissolved oxygen chemistry",
+                "Only a groundwater issue with no surface-water relevance",
+            ),
+            "a",
+            "Correct (a): couples temperature–DO–metabolism and thermal shock narrative. (b)–(d) contradict lecture content.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            11,
+            "Which disease–agent pairing is correctly associated with waterborne transmission in the lecture list?",
+            (
+                "Typhoid fever — bacterial",
+                "Typhoid fever — solely viral hepatitis without bacterial forms",
+                "Schistosomiasis — purely photochemical oxidant",
+                "Cholera — non-infectious ergonomic injury",
+            ),
+            "a",
+            "Correct (a): typhoid listed as bacterial waterborne. (b) mislabels. (c) schistosomiasis is parasitic worm per slides. (d) is absurd.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            12,
+            "The Philippine National Standards for Drinking Water (PNSDW) in the lecture are attributed to:",
+            (
+                "DOH guidelines (1963 origin in slides) covering source-to-tap physical, chemical, and microbiological parameters",
+                "BFP fire-code inspection forms exclusively",
+                "TIA-568 cabling performance only",
+                "UNFCCC NDC templates only",
+            ),
+            "a",
+            "Correct (a): PNSDW scope as taught. (b)–(d) are unrelated regimes.",
+            PNSDW + [L52],
+        ),
+        _mcq(
+            W,
+            13,
+            "DENR Administrative Order No. 34 (1990) is summarized as establishing:",
+            (
+                "Water use classification and water-quality criteria/standards for beneficial uses including domestic, agricultural, and industrial classes",
+                "Exclusive air-quality NAAQS for Metro Manila only",
+                "Mining tailings bonds without water classes",
+                "A ban on all irrigation withdrawals nationally",
+            ),
+            "a",
+            "Correct (a): AO 34 classification/standards narrative. (b) is air law. (c)/(d) are not AO 34 functions.",
+            DENR34 + [L52],
+        ),
+        _mcq(
+            W,
+            14,
+            "In DENR AO 34 freshwater classes, Class AA is designated for:",
+            ("Public Water Supply Class I", "Agricultural supply only", "Industrial Class II exclusively", "Recreational contact without supply uses"),
+            "a",
+            "Correct (a): Class AA = public water supply class I in slide taxonomy. (b)–(d) mis-assign classes.",
+            DENR34 + [L52],
+        ),
+        _mcq(
+            W,
+            15,
+            "Republic Act No. 9275 (Philippine Clean Water Act of 2004) is characterized in lecture as:",
+            (
+                "Comprehensive water-quality management targeting land-based pollution sources; signed March 2004, effective May 2004",
+                "Repealing RA 9003 solid waste law entirely",
+                "A 1978 PEISS impact-statement statute",
+                "Regulating only stratospheric ozone-depleting substances",
+            ),
+            "a",
+            "Correct (a): RA 9275 dates and land-based pollution focus per slides. (b)–(d) misidentify statutes/domains.",
+            RA9275 + [L52],
+        ),
+        _mcq(
+            W,
+            16,
+            "Solids in water are differentiated in class by:",
+            (
+                "Suspended solids retained on a standard filter vs dissolved solids passing through with the filtrate",
+                "Color vs odor only without physical separation",
+                "Radioactivity vs turbidity as identical measures",
+                "BOD vs NTU as the same test",
+            ),
+            "a",
+            "Correct (a): glass-fiber filter partition taught in slides. (b)–(d) confuse parameters.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            17,
+            "Hydrogen sulfide (H₂S) in water supplies is noted for:",
+            (
+                "Rotten-egg odor associated with decaying organic deposits in some groundwaters",
+                "Sweet floral scent indicating pristine alpine water always",
+                "Proof of zero biological activity",
+                "Replacing chlorine disinfection legally in all utilities",
+            ),
+            "a",
+            "Correct (a): H₂S odor pathway in lecture. (b)–(d) contradict slide examples.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            18,
+            "pH and alkalinity monitoring in water treatment contexts serve to:",
+            (
+                "Control treatment processes; alkalinity buffers acid addition while pH measures acidity/alkalinity intensity",
+                "Replace all microbiological testing",
+                "Measure wind speed over reservoirs",
+                "Eliminate need for corrosion control on metals",
+            ),
+            "a",
+            "Correct (a): treatment control + alkalinity/acidity definitions from slides. (b)–(d) overstate or misassign roles.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            19,
+            "Inorganic chemical pollutants highlighted include metals such as:",
+            ("Mercury and lead among toxic metals listed", "Only biodegradable sugars", "Only household compost humus", "Neon and argon as primary water toxics"),
+            "a",
+            "Correct (a): slides list Hg, Pb, etc. (b)–(d) misclassify pollutant types.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            20,
+            "Leachate from waste deposits is classified in lecture as a:",
+            ("Non-point source pathway carrying contaminants via runoff/groundwater", "Point source identical to a single stack height", "Natural volcanic product only", "Parameter identical to nephelometric turbidity"),
+            "a",
+            "Correct (a): leachate under non-point/discussed runoff framing. (b)–(d) mislabel.",
+            [L52],
+        ),
+        _tf(
+            W,
+            21,
+            "Higher BOD in a river reach generally signals more biodegradable organics available to microbes, tending to depress dissolved oxygen unless re-aeration keeps pace.",
+            True,
+            "TRUE: lecture links organic loading → microbial O₂ consumption → lower DO for aquatic life. FALSE would deny the central BOD narrative.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            22,
+            "Parasitic organisms in the lecture’s biological water-quality taxonomy include:",
+            ("Worms among the five listed groups (with bacteria, protozoa, viruses, fungi)", "Only photochemical oxidants", "Only asbestos fibers", "Only carbon monoxide from garages"),
+            "a",
+            "Correct (a): five-type list includes worms. (b)–(d) are air/indoor pollutants or wrong kingdom.",
+            [L52],
+        ),
+        _mcq(
+            W,
+            23,
+            "Primary causes of water pollution enumerated in Lec 5.2 include which set?",
+            (
+                "Industrial wastes, oil spills, sewage, marine dumping, leaking landfills, pesticides/fertilizers, and animal waste among others",
+                "Only lightning strikes on reservoirs",
+                "Only stratospheric ozone thinning",
+                "Only indoor formaldehyde off-gassing",
+            ),
+            "a",
+            "Correct (a): mirrors slide bullet list of primary causes. (b)–(d) import unrelated mechanisms.",
+            [L52],
+        ),
+    ]
+
+
+def air_bank() -> list[dict]:
+    A = "LO5A"
+    return [
+        _mcq(
+            A,
+            1,
+            "The lecture cites WHO-scale mortality associated with ambient air pollution at roughly:",
+            ("Seven million premature deaths per year worldwide", "Seven hundred deaths globally per decade", "Zero attributable deaths if PM is visible", "Only indoor radon without outdoor PM effects"),
+            "a",
+            "Correct (a): opening WHO statistic in slides. (b)–(d) contradict or trivialize the figure.",
+            WHO + [L53],
+        ),
+        _mcq(
+            A,
+            2,
+            "Clean dry air composition in the lecture lists nitrogen and oxygen at approximately:",
+            ("78.08% N₂ and 20.95% O₂", "50% N₂ and 50% O₂", "100% O₂ with trace argon only", "0.03% N₂ and 99% CO₂"),
+            "a",
+            "Correct (a): table values from slides. (b)–(d) misstate atmospheric composition.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            3,
+            "Weather and climate phenomena emphasized in class occur primarily in which atmospheric layer?",
+            ("Troposphere (roughly up to 10–18 km in slides)", "Exosphere only", "Mesosphere exclusively for daily rain", "Thermosphere as the sole pollution sink"),
+            "a",
+            "Correct (a): troposphere hosts weather/climate per lecture. (b)–(d) misplace processes.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            4,
+            "Nitrogen dioxide (NO₂) in urban smog is described as:",
+            (
+                "Contributing to brownish haze and aggravating respiratory illness; linked to fossil combustion",
+                "A noble gas filling balloons harmlessly",
+                "The dominant stratospheric ozone shield gas in all contexts",
+                "Unrelated to vehicles or power plants",
+            ),
+            "a",
+            "Correct (a): NOx/smog health and color narrative. (b)–(d) misidentify chemistry/sources.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            5,
+            "Sulfur dioxide (SO₂) sources and effects in lecture include:",
+            (
+                "Combustion in power plants/refineries; respiratory aggravation; corrosion and visibility loss at sufficient concentrations",
+                "Only natural photosynthesis byproduct with no health effects",
+                "Exclusive indoor radon decay chain",
+                "Primary constituent of clean dry air at 78%",
+            ),
+            "a",
+            "Correct (a): SO₂ sources and impacts as taught. (b)–(d) contradict slide content.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            6,
+            "Suspended particulate matter in air pollution discourse is tied to:",
+            (
+                "Cardiovascular and respiratory harm; toxic constituents such as benzene, arsenic, asbestos, and lead noted in slides",
+                "Only beneficial cooling of urban heat islands without health trade-offs",
+                "Exclusive elimination of greenhouse gases",
+                "Only dissolved oxygen deficits in rivers",
+            ),
+            "a",
+            "Correct (a): PM health/toxic fraction lecture points. (b)–(d) are wrong media or mechanisms.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            7,
+            "Photochemical smog requires which condition per Lec 5.3?",
+            ("Sunlight-driven chemical reactions among precursors", "Exclusive indoor mothball off-gassing without outdoor chemistry", "Subsurface groundwater leachate only", "Sediment deposition in reservoirs only"),
+            "a",
+            "Correct (a): photochemical smog defined by solar-driven chemistry. (b)–(d) are other pollution types.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            8,
+            "Components of photochemical smog listed include:",
+            ("Tropospheric ozone, nitric acid, formaldehyde, and PAN among others", "Only methane from rice paddies without oxidants", "Only fecal coliform bacteria", "Only turbidity measured in NTU"),
+            "a",
+            "Correct (a): smog component list in slides. (b)–(d) misassign pollutants/parameters.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            9,
+            "The greenhouse effect in lecture is defined as:",
+            (
+                "Atmospheric gases trapping infrared radiation, contributing to global warming/climate change",
+                "Visible smog that eliminates all UV instantly",
+                "Only acid rain formation in lakes",
+                "Exclusive indoor asbestos hazard",
+            ),
+            "a",
+            "Correct (a): IR trapping narrative with GHGs named (CO₂, CH₄, etc.). (b)–(d) confuse phenomena.",
+            [L53, "IPCC AR6 WGI (context)"],
+        ),
+        _mcq(
+            A,
+            10,
+            "COVID-19 lockdown air-quality observations in Metro Manila included:",
+            (
+                "Temporary drops in NO₂ and PM₂.₅ with traffic/industry curbs, later rebounding as restrictions eased",
+                "Permanent elimination of all biomass burning in Central Luzon forever",
+                "Proof that pollution never returns after one quiet month",
+                "Exclusive increase in stratospheric ozone without tropospheric effects",
+            ),
+            "a",
+            "Correct (a): temporary improvement + rebound stressed in slides. (b)–(d) overstate or misplace outcomes.",
+            [L53, "UP Diliman Information Office (cited in lecture)"],
+        ),
+        _mcq(
+            A,
+            11,
+            "An Air Quality Index (AQI) value of 100 in the lecture framing generally means:",
+            ("Pollutant level at the national air-quality standard protective of public health", "Hazardous conditions for the entire population", "Zero pollutants detected with perfect mountain air always", "Identical to water BOD of 100 mg/L"),
+            "a",
+            "Correct (a): AQI 100 ↔ standard level pedagogy (US EPA style explanation in slides). (b) is higher bands. (c) is unrealistic. (d) confuses media.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            12,
+            "AQI category 'Unhealthy' in the slide table corresponds roughly to which numeric range?",
+            ("151–200", "0–50", "51–100", "301–500"),
+            "a",
+            "Correct (a): unhealthy band per lecture table. (b) is Good. (c) is Moderate. (d) is Hazardous.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            13,
+            "Acid rain formation in class involves atmospheric conversion of sulfur and nitrogen oxides into:",
+            ("Sulfuric and nitric acids lowering rain pH below natural ~5.6 background", "Pure distilled water at pH 14 always", "Only sodium chloride aerosols", "Only biodegradable organics measured as BOD"),
+            "a",
+            "Correct (a): acid rain chemistry and pH contrast (5.6 vs ~2.0 extreme example). (b)–(d) misstate products/parameters.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            14,
+            "Ecological damages from acid rain noted in lecture include:",
+            ("Forest soil-nutrient leaching and aquatic acidification harming fish", "Guaranteed coral reef expansion from lower pH", "Increased stratospheric ozone uniformly", "Elimination of all smog precursors"),
+            "a",
+            "Correct (a): soil leaching + lake acidification bullets. (b)–(d) contradict impacts taught.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            15,
+            "Classic smog etymology in the slides combines:",
+            ("Smoke and fog into a visible urban haze", "Sodium and fluorine only", "Sediment and leachate only", "Turbidity and BOD only"),
+            "a",
+            "Correct (a): smoke + fog definition. (b)–(d) are unrelated portmanteaus/parameters.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            16,
+            "Indoor air pollution is characterized as potentially:",
+            ("More concentrated than outdoor air in homes/offices for some pollutants", "Always cleaner than any outdoor location by definition", "Unrelated to asbestos or formaldehyde", "Only a rural issue without urban cases"),
+            "a",
+            "Correct (a): indoor can exceed outdoor per lecture warning. (b)–(d) contradict examples (asbestos, formaldehyde, smoke).",
+            [L53],
+        ),
+        _mcq(
+            A,
+            17,
+            "Carbon monoxide (CO) indoor risks in lecture stem from:",
+            (
+                "Odorless combustion products (heaters, poorly vented garages, tobacco smoke) impairing oxygen transport",
+                "Visible brown NO₂ only with no CO relevance",
+                "Nephelometric turbidity of drinking water",
+                "Leachate from open dumps only",
+            ),
+            "a",
+            "Correct (a): CO sources and toxicity via combustion. (b)–(d) are wrong pollutants/media.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            18,
+            "Asbestos in indoor air discussions is hazardous chiefly because:",
+            ("Inhaled fibers can cause lung damage and cancer; historically used in tiles and insulation", "It neutralizes all greenhouse gases on contact", "It measures dissolved oxygen in rivers", "It is the main component of clean dry air at 21%"),
+            "a",
+            "Correct (a): fiber inhalation risk from building materials. (b)–(d) are nonsense in context.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            19,
+            "The WHO ambient database example ranking includes which Philippine monitoring context cited in slides?",
+            ("NIA Road, Philippines appearing in a global PM concentration list (2016 table)", "Only Kanpur, India with no Philippine sites", "Only marine Class SA shellfish waters", "Only PNSDW chlorine residuals"),
+            "a",
+            "Correct (a): NIA Road reference in WHO table slide. (b)–(d) omit or misplace the Philippine datapoint.",
+            WHO + [L53],
+        ),
+        _mcq(
+            A,
+            20,
+            "Water vapor in the atmosphere (lecture notes) is significant because it:",
+            (
+                "Acts as a heat-transfer agent with spatial variability (e.g., lower polar fractions vs equatorial)",
+                "Comprises a fixed 78% of dry air by volume",
+                "Eliminates all photochemical smog without sunlight",
+                "Is identical to suspended PM₂.₅ metals",
+            ),
+            "a",
+            "Correct (a): vapor as heat-transfer medium with latitude contrast. (b) confuses with N₂. (c)–(d) misassign roles.",
+            [L53],
+        ),
+        _tf(
+            A,
+            21,
+            "Tropospheric ozone in photochemical smog is beneficial when it replaces stratospheric ozone entirely—there is no distinction in impacts between layers.",
+            False,
+            "FALSE: lecture treats tropospheric ozone in smog as harmful irritant distinct from stratospheric UV-shield discourse elsewhere. TRUE would collapse layer-specific impacts incorrectly.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            22,
+            "Lead in particulate/air pollution pathways in the slides is associated with:",
+            (
+                "Historical gasoline/paint sources, soil contamination, and severe neurological/toxic outcomes",
+                "Only beneficial micronutrient enrichment without dose response",
+                "Only water turbidity NTU calibration",
+                "Only eutrophication of lakes",
+            ),
+            "a",
+            "Correct (a): Pb toxicity and exposure routes per PM discussion. (b)–(d) misassign media/effects.",
+            [L53],
+        ),
+        _mcq(
+            A,
+            23,
+            "Integrated interpretation: reducing mobile and stationary fossil combustion in a city most directly targets which lecture pollutant families?",
+            ("NOx, SO₂, PM, and photochemical smog precursors", "Only waterborne cholera vibrios", "Only landfill leachate metals without air overlap", "Only indoor radon without outdoor combustion"),
+            "a",
+            "Correct (a): fossil combustion ties to major air pollutant groups taught. (b)–(d) are other environmental compartments.",
+            [L53],
+        ),
+    ]
+
+
+def all_pollution_questions() -> list[dict]:
+    w = water_bank()
+    a = air_bank()
+    assert len(w) == QUESTIONS_PER_TOPIC, len(w)
+    assert len(a) == QUESTIONS_PER_TOPIC, len(a)
+    texts = [q["text"].strip().lower() for q in w + a]
+    assert len(texts) == len(set(texts)), "duplicate stems in pollution bank"
+    return w + a
